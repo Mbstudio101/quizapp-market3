@@ -1,17 +1,18 @@
 {
-  "id": "medsurg_gi_v1",
-  "title": "Med-Surg: GI Disorders",
-  "questions": [
+  "version": 1,
+  "sets": [
     {
-      "text": "Which assessment finding is most concerning in a client with suspected upper GI bleeding?",
-      "options": [
-        "Bright red blood in emesis",
-        "Decreased appetite",
-        "Slight nausea after meals",
-        "Occasional constipation"
-      ],
-      "correctIndices": [0],
-      "explanation": "Hematemsis with bright red blood suggests active upper GI bleeding and requires urgent intervention."
+      "id": "medsurg_gi_v1",
+      "title": "Med-Surg: GI Disorders",
+      "description": "High-yield GI questions focusing on bleeding, ulcers, and pancreatitis.",
+      "category": "Med-Surg",
+      "questionCount": 1,
+      "priceUSD": 0.99,
+      "productId": "com.quizapp.medsurg_gi_v1",
+      "setURL": "https://raw.githubusercontent.com/Mbstudio101/quizapp-market3/main/sets/medsurg_gi_v1.json",
+      "previewQuestions": [
+        "Which assessment finding is most concerning in a client with suspected upper GI bleeding?"
+      ]
     }
   ]
 }
