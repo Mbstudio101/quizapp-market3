@@ -4,15 +4,14 @@
     {
       "id": "medsurg_gi_v1",
       "title": "Med-Surg: GI Disorders",
-      "description": "High-yield GI questions focusing on bleeding, ulcers, and pancreatitis.",
+      "description": "High-yield GI questions focusing on GI bleeding and emergency assessment.",
       "category": "Med-Surg",
-      "questionCount": 40,
-      "priceUSD": 2.99,
-      "productId": "com.yourapp.medsurg_gi_v1",
-      "setURL": "https://raw.githubusercontent.com/your-username/quizapp-market/main/sets/medsurg_gi_v1.json",
+      "questionCount": 1,
+      "priceUSD": 0.99,
+      "productId": "com.quizapp.medsurg_gi_v1",
+      "setURL": "https://raw.githubusercontent.com/Mbstudio101/quizapp-market3/main/sets/medsurg_gi_v1.json",
       "previewQuestions": [
-        "Which finding is most concerning in a client with suspected GI bleed?",
-        "What does melena typically indicate?"
+        "Which assessment finding is most concerning in a client with suspected upper GI bleeding?"
       ]
     }
   ]
