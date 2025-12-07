@@ -11,7 +11,15 @@
         "Occasional constipation"
       ],
       "correctIndices": [0],
-      "explanation": "Hematemsis with bright red blood suggests active upper GI bleeding and requires urgent intervention."
+      "explanation": "Bright red hematemesis indicates active upper GI bleeding and requires urgent intervention to prevent hypovolemic shock."
     }
+    /* You can add more questions here, separated by commas:
+    {
+      "text": "Next question...",
+      "options": ["A", "B", "C", "D"],
+      "correctIndices": [1],
+      "explanation": "Short NCLEX-style rationale goes here."
+    }
+    */
   ]
 }
