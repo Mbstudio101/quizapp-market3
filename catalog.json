@@ -1,18 +1,12 @@
 {
-  "version": 1,
-  "sets": [
+  "items": [
     {
       "id": "medsurg_gi_v1",
       "title": "Med-Surg: GI Disorders",
-      "description": "High-yield GI questions focusing on GI bleeding and emergency assessment.",
-      "category": "Med-Surg",
-      "questionCount": 1,
-      "priceUSD": 0.99,
-      "productId": "com.quizapp.medsurg_gi_v1",
-      "setURL": "https://raw.githubusercontent.com/Mbstudio101/quizapp-market3/main/sets/medsurg_gi_v1.json",
-      "previewQuestions": [
-        "Which assessment finding is most concerning in a client with suspected upper GI bleeding?"
-      ]
+      "description": "High-yield practice questions covering common GI disorders, assessment findings, and priority interventions.",
+      "remoteURL": "https://raw.githubusercontent.com/Mbstudio101/quizapp-market3/main/sets/medsurg_gi_v1.json",
+      "priceUSD": 2.99,
+      "questionCount": 40
     }
   ]
 }
