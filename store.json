@@ -1,0 +1,18 @@
+[
+  {
+    "id": "exam_med_surg_1",
+    "title": "Med-Surg Exam 1",
+    "description": "50 high-yield Med-Surg questions.",
+    "questionCount": 50,
+    "priceUSD": 2.99,
+    "downloadURL": "https://raw.githubusercontent.com/Mbstudio101/quizapp-market3/main/medsurg1.json"
+  },
+  {
+    "id": "exam_pharm_1",
+    "title": "Pharmacology Exam 1",
+    "description": "Top pharmacology questions for NCLEX prep.",
+    "questionCount": 60,
+    "priceUSD": 3.99,
+    "downloadURL": "https://raw.githubusercontent.com/Mbstudio101/quizapp-market3/main/pharm1.json"
+  }
+]
