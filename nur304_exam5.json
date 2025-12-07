@@ -1,0 +1,11 @@
+{
+  "title": "NUR 304 Exam 4",
+  "questions": [
+    {
+      "text": "What ABG imbalance occurs during respiratory depression?",
+      "options": ["Respiratory acidosis", "Respiratory alkalosis", "Metabolic acidosis", "Metabolic alkalosis"],
+      "correctIndices": [0],
+      "explanation": "Respiratory depression causes CO₂ retention → respiratory acidosis."
+    }
+  ]
+}
