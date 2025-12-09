@@ -14,5 +14,11 @@
     "questionCount": 60,
     "priceUSD": 3.99,
     "downloadURL": "https://raw.githubusercontent.com/Mbstudio101/quizapp-market3/main/pharm1.json"
-  }
+  },
+  {"id": "Med-surg proctored exam (examplify)  ",
+    "title": "Med-Surg Exam",
+    "description": "RN Examn.",
+    "questionCount": 52,
+    "priceUSD": 3.99,
+    "downloadURL": "https://raw.githubusercontent.com/Mbstudio101/quizapp-market3/main/Medsurgexam.json"
 ]
