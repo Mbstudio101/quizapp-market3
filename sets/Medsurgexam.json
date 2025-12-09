@@ -1,0 +1,593 @@
+{
+  "id": "MedSurg Exam v1",
+  "title": "Health Promotion & Nursing Foundations",
+  "questions": [
+    {
+      "text": "Which principle should a nurse follow to increase stability when transferring a client?",
+      "options": [
+        "Lower the center of gravity.",
+        "Face away from the direction of movement.",
+        "Use a narrow base of support.",
+        "Use only the arms for lifting."
+      ],
+      "correctIndices": [0],
+      "explanation": ""
+    },
+    {
+      "text": "What is the primary goal of the Affordable Care Act (ACA)?",
+      "options": [
+        "To decrease the number of clients with private health insurance.",
+        "To decrease the number of satisfaction surveys.",
+        "To reduce the cost of healthcare by shifting to value-based care.",
+        "To reduce the availability of Medicaid coverage."
+      ],
+      "correctIndices": [2],
+      "explanation": ""
+    },
+    {
+      "text": "Using Maslow's hierarchy of needs to prioritize safety, which client should the nurse address first?",
+      "options": [
+        "A client asking for a nicotine patch and feeling irritable.",
+        "A client who feels lonely and wants more visitors.",
+        "A client who is worried about their roommate's alarms.",
+        "A client who feels hopeless and is considering suicide."
+      ],
+      "correctIndices": [3],
+      "explanation": ""
+    },
+    {
+      "text": "Which statement should the nurse include when teaching a client who is refusing colorectal cancer screening?",
+      "options": [
+        "Screening can detect precancerous polyps.",
+        "Screening is only for people with symptoms.",
+        "Screening identifies cancer at an advanced stage.",
+        "Screening is used to diagnose many types of cancer."
+      ],
+      "correctIndices": [0],
+      "explanation": ""
+    },
+    {
+      "text": "A seizure-alert dog for an adolescent with a seizure disorder is an example of which level of prevention?",
+      "options": [
+        "Primary prevention",
+        "Quaternary prevention",
+        "Primordial prevention",
+        "Tertiary prevention"
+      ],
+      "correctIndices": [3],
+      "explanation": ""
+    },
+    {
+      "text": "What is the most common reason that individuals are uninsured?",
+      "options": [
+        "Insurance is only available for hospitalization services.",
+        "Insurance coverage is not affordable.",
+        "The client is not eligible for coverage.",
+        "The client cannot find a plan that meets their needs."
+      ],
+      "correctIndices": [1],
+      "explanation": ""
+    },
+    {
+      "text": "Which example is an internal variable that may influence a person's health?",
+      "options": [
+        "Psychosocial background",
+        "Cultural background",
+        "Family roles and organization",
+        "Client’s perception of the illness"
+      ],
+      "correctIndices": [3],
+      "explanation": ""
+    },
+    {
+      "text": "Which client presents with a nonmodifiable risk factor?",
+      "options": [
+        "A 48-year-old client who eats a high-fat diet",
+        "A 72-year-old male with a sedentary lifestyle",
+        "A 22-year-old who binge drinks three nights per week",
+        "A 36-year-old client with a family history of diabetes mellitus"
+      ],
+      "correctIndices": [3],
+      "explanation": ""
+    },
+    {
+      "text": "Which prevention strategy typically occurs at the state level?",
+      "options": [
+        "Tobacco Control Program",
+        "Fewer liquor stores in a neighborhood",
+        "Anti-smoking campaigns",
+        "The Clean Air Act"
+      ],
+      "correctIndices": [0],
+      "explanation": ""
+    },
+    {
+      "text": "A community program aims to reduce type 2 diabetes through lifestyle changes. Which outcome indicates successful primary prevention?",
+      "options": [
+        "Increased participation in diabetes self-management education",
+        "Reduced number of new cases of type 2 diabetes",
+        "Decreased hospital admissions for diabetes complications",
+        "Improved glycemic control in people with type 2 diabetes"
+      ],
+      "correctIndices": [1],
+      "explanation": ""
+    },
+    {
+      "text": "A nurse is teaching a new graduate about the Healthy People initiative. Which statements accurately describe Healthy People? Select all that apply.",
+      "options": [
+        "Its goal is to improve the health of the nation.",
+        "It addresses health concerns across the lifespan.",
+        "It focuses on disease prevention.",
+        "It focuses on increasing health disparities.",
+        "It addresses health risks and needs of groups."
+      ],
+      "correctIndices": [0,1,2,4],
+      "explanation": ""
+    },
+    {
+      "text": "A client has entered the action stage of the Transtheoretical Model for smoking cessation. Which behavior reflects this stage?",
+      "options": [
+        "The client is unaware of the health risks of smoking.",
+        "The client has chosen a quit day and is using nicotine replacement therapy.",
+        "The client is still weighing the pros and cons of quitting.",
+        "The client has been smoke-free for more than six months."
+      ],
+      "correctIndices": [1],
+      "explanation": ""
+    },
+    {
+      "text": "A client asks how therapeutic touch works. Which explanation is most accurate?",
+      "options": [
+        "It can be used to promote relaxation and reduce anxiety.",
+        "It manipulates bones and joints to release blockages.",
+        "It requires essential oils to activate energy centers.",
+        "It is only effective when done by massage therapists."
+      ],
+      "correctIndices": [0],
+      "explanation": ""
+    },
+    {
+      "text": "A nurse is educating a community group about the mission of Healthy People 2030. Which statement best describes this mission?",
+      "options": [
+        "To reduce healthcare costs.",
+        "To promote the health and well-being of all people.",
+        "To provide free healthcare for all citizens.",
+        "To eliminate all chronic diseases by 2030."
+      ],
+      "correctIndices": [1],
+      "explanation": ""
+    },
+    {
+      "text": "A nurse is caring for a client experiencing chronic stress due to work. Which physiological changes are expected? Select all that apply.",
+      "options": [
+        "Increased heart rate",
+        "Decreased blood pressure",
+        "Enhanced immune response",
+        "Elevated blood glucose levels",
+        "Decreased sex drive"
+      ],
+      "correctIndices": [0,3,4],
+      "explanation": ""
+    },
+    {
+      "text": "Which complementary therapy is often used to reduce stress and promote relaxation through gentle touch or near-touch?",
+      "options": [
+        "Chiropractic therapy",
+        "Therapeutic touch",
+        "Herbal medicine",
+        "Acupuncture"
+      ],
+      "correctIndices": [1],
+      "explanation": ""
+    },
+    {
+      "text": "A client with high cholesterol declines prescribed medication and chooses to take garlic instead. This is an example of which type of therapy?",
+      "options": [
+        "Complementary therapy",
+        "Alternative therapy",
+        "Integrative therapy",
+        "Conventional therapy"
+      ],
+      "correctIndices": [1],
+      "explanation": ""
+    },
+    {
+      "text": "A client under financial stress takes a prescribed medication and also attends free yoga classes in the park. Which type of therapy is this?",
+      "options": [
+        "Alternative therapy",
+        "Complementary therapy",
+        "Conventional therapy",
+        "Holistic therapy"
+      ],
+      "correctIndices": [1],
+      "explanation": ""
+    },
+    {
+      "text": "A nurse teaches sleep hygiene to a client with insomnia. Which client statement shows effective learning?",
+      "options": [
+        "I will stay in bed even if I cannot sleep.",
+        "I will drink chamomile tea before bed.",
+        "I should exercise in the evenings.",
+        "I will nap during the day to catch up on sleep."
+      ],
+      "correctIndices": [1],
+      "explanation": ""
+    },
+    {
+      "text": "A postoperative client is anxious, cannot sleep, and refuses to see their partner. Using Maslow's hierarchy, which need should the nurse prioritize?",
+      "options": [
+        "Anxiety",
+        "Refusal to see partner",
+        "Inability to sleep",
+        "Wound care"
+      ],
+      "correctIndices": [3],
+      "explanation": ""
+    },
+    {
+      "text": "Which factors contribute to food insecurity in low-income families? Select all that apply.",
+      "options": [
+        "Lack of affordable housing",
+        "High medical costs",
+        "Stable employment",
+        "Chronic health problems",
+        "Food allergies"
+      ],
+      "correctIndices": [0,1,3],
+      "explanation": ""
+    },
+    {
+      "text": "A nurse manager asks a new graduate, “What is the nurse’s role in helping clients achieve optimal health?” Which responses are appropriate? Select all that apply.",
+      "options": [
+        "Screen clients for modifiable risk factors at every encounter.",
+        "Administer vaccines according to guidelines.",
+        "Encourage overweight clients to reduce caloric intake.",
+        "Focus only on the client’s presenting concern.",
+        "Educate clients on ways to improve health literacy."
+      ],
+      "correctIndices": [0,1,2,4],
+      "explanation": ""
+    },
+    {
+      "text": "The nurse develops a care plan to meet a client's basic physiological needs by consulting with social services to assist with food benefits and medication delivery. Which items complete this sentence? Select all that apply.",
+      "options": [
+        "Social services",
+        "Food benefits",
+        "Medication delivery",
+        "Opening a bank account"
+      ],
+      "correctIndices": [0,1,2],
+      "explanation": ""
+    },
+    {
+      "text": "Which nursing action is an example of health promotion?",
+      "options": [
+        "Conducting diagnostic testing",
+        "Administering prescribed medication",
+        "Performing surgery",
+        "Encouraging regular exercise"
+      ],
+      "correctIndices": [3],
+      "explanation": ""
+    },
+    {
+      "text": "Nurses often work in stressful environments. Which negative impact of stress may occur?",
+      "options": [
+        "Low blood pressure",
+        "Increased immune function",
+        "Increased depression",
+        "Low blood sugar"
+      ],
+      "correctIndices": [2],
+      "explanation": ""
+    },
+    {
+      "text": "Which is an example of primordial prevention?",
+      "options": [
+        "Improving access to safe walking trails in urban areas",
+        "Educating an older adult about healthy eating habits",
+        "Developing a checklist for diabetic foot care",
+        "Handing out flyers for free mammograms"
+      ],
+      "correctIndices": [0],
+      "explanation": ""
+    },
+    {
+      "text": "Based on Maslow’s hierarchy, which client should the nurse attend to first?",
+      "options": [
+        "A client anxious about upcoming surgery",
+        "A client complaining of severe pain",
+        "A client requesting financial assistance information",
+        "A client feeling very lonely"
+      ],
+      "correctIndices": [1],
+      "explanation": ""
+    },
+    {
+      "text": "Which proposal demonstrates a secondary prevention approach for cardiovascular disease?",
+      "options": [
+        "Offering free cholesterol screenings at local clinics",
+        "Partnering with schools to provide healthy meals",
+        "Launching a campaign to reduce sodium intake",
+        "Installing walking and biking trails in the neighborhood"
+      ],
+      "correctIndices": [0],
+      "explanation": ""
+    },
+    {
+      "text": "An older client with lung disease is admitted with shortness of breath and productive cough and reports not eating all day. Which need should the nurse prioritize?",
+      "options": [
+        "Lack of oxygen",
+        "Lack of nutrition",
+        "Lack of support",
+        "Lack of rest"
+      ],
+      "correctIndices": [0],
+      "explanation": ""
+    },
+    {
+      "text": "A client has recently lost a loved one and is struggling with faith. Which intervention best supports spiritual wellness?",
+      "options": [
+        "Provide written materials on grief.",
+        "Facilitate a visit from the client’s clergy or spiritual advisor.",
+        "Assist the client to start an exercise routine.",
+        "Encourage the client to join a grief support group."
+      ],
+      "correctIndices": [1],
+      "explanation": ""
+    },
+    {
+      "text": "In a community where nutrition is strongly influenced by economics, which resource is most important for the nurse to recommend?",
+      "options": [
+        "Public service announcements on healthy eating",
+        "Educational programs on food safety",
+        "The Supplemental Nutrition Assistance Program (SNAP)",
+        "The MyPyramid food guidance system"
+      ],
+      "correctIndices": [2],
+      "explanation": ""
+    },
+    {
+      "text": "Which action is an example of passive health promotion?",
+      "options": [
+        "Following healthy diet guidelines",
+        "Following recommended colon cancer screening",
+        "Laws mandating seatbelt use in cars",
+        "Joining a drug addiction support group"
+      ],
+      "correctIndices": [2],
+      "explanation": ""
+    },
+    {
+      "text": "A client with newly diagnosed hypertension says, “I know I need to take my medication, but I’m worried about side effects.” Which Health Belief Model component is most evident?",
+      "options": [
+        "Perceived barriers",
+        "Perceived financial costs",
+        "Perceived severity",
+        "Perceived benefits"
+      ],
+      "correctIndices": [0],
+      "explanation": ""
+    },
+    {
+      "text": "Which observation supports the suspicion that a nurse is experiencing compassion fatigue?",
+      "options": [
+        "Demonstrating excessive empathy",
+        "Discussing strong intimate relationships",
+        "Difficulty making clinical decisions",
+        "Rarely using sick days"
+      ],
+      "correctIndices": [2],
+      "explanation": ""
+    },
+    {
+      "text": "A nurse encourages clients to achieve higher well-being and self-actualization through lifestyle changes. Which health model is the nurse using?",
+      "options": [
+        "Clinical model",
+        "Holistic health model",
+        "Health belief model",
+        "Health promotion model"
+      ],
+      "correctIndices": [3],
+      "explanation": ""
+    },
+    {
+      "text": "Which of the following is an example of a Healthy People 2030 objective?",
+      "options": [
+        "Promote access to mental health services for underserved populations",
+        "Encourage removing mental health services from schools",
+        "Decrease availability of crisis hotlines",
+        "Discourage mental health screening in older adults"
+      ],
+      "correctIndices": [0],
+      "explanation": ""
+    },
+    {
+      "text": "A nurse updates meal options for children. Which strategy supports healthy eating habits?",
+      "options": [
+        "Offer larger portions of high-calorie foods.",
+        "Incorporate more fruits and vegetables into meals.",
+        "Increase the availability of sugary beverages.",
+        "Reduce the variety of meal options."
+      ],
+      "correctIndices": [1],
+      "explanation": ""
+    },
+    {
+      "text": "A client is experiencing prolonged stress due to chronic illness. According to the General Adaptation Syndrome (GAS), which stage are they likely in?",
+      "options": [
+        "Recovery",
+        "Alarm",
+        "Exhaustion",
+        "Resistance"
+      ],
+      "correctIndices": [2],
+      "explanation": ""
+    },
+    {
+      "text": "A community program aims to promote a tobacco-free lifestyle among adolescents. Which strategy is most effective?",
+      "options": [
+        "Create local media campaigns to counter tobacco products.",
+        "Host events where tobacco companies can advertise.",
+        "Ask local markets to reduce the cost of tobacco products.",
+        "Allow tobacco promotion in youth community centers."
+      ],
+      "correctIndices": [0],
+      "explanation": ""
+    },
+    {
+      "text": "In a discussion on factors that influence health, which belief by staff suggests the need for further education?",
+      "options": [
+        "Genetic makeup influences health.",
+        "Mental health issues affect overall health.",
+        "Size of home can indirectly influence health.",
+        "Health is only influenced by the physical environment."
+      ],
+      "correctIndices": [3],
+      "explanation": ""
+    },
+    {
+      "text": "Which Affordable Care Act (ACA) program links reimbursement to clinical outcomes and client satisfaction?",
+      "options": [
+        "Readmission Reduction Program",
+        "Hospital-Acquired Condition Reduction Program",
+        "Bundled Payments for Care Improvement",
+        "Value-Based Purchasing Program"
+      ],
+      "correctIndices": [3],
+      "explanation": ""
+    },
+    {
+      "text": "A parish nurse helps a client experiencing domestic violence. Based on Maslow’s hierarchy, which action should be prioritized?",
+      "options": [
+        "Secure an apartment in a confidential location.",
+        "Arrange for an attorney for legal advice.",
+        "Enroll the client in a domestic violence support group.",
+        "Purchase clothing items from a thrift store."
+      ],
+      "correctIndices": [0],
+      "explanation": ""
+    },
+    {
+      "text": "Which role does the nurse play in advancing global health initiatives?",
+      "options": [
+        "Educating clients only about local issues",
+        "Avoiding involvement in policymaking",
+        "Collaborating with international organizations",
+        "Working only in community hospitals"
+      ],
+      "correctIndices": [2],
+      "explanation": ""
+    },
+    {
+      "text": "A client is beginning a fitness program to improve health. Which statement should the nurse make?",
+      "options": [
+        "You should do muscle-strengthening activities at least six days a week.",
+        "You should alternate moderate and vigorous activity for 50 minutes daily.",
+        "You should perform 30 minutes of stretching exercises daily.",
+        "You should exercise at a moderate intensity for 150 minutes each week."
+      ],
+      "correctIndices": [3],
+      "explanation": ""
+    },
+    {
+      "text": "Which client scenario best represents illness?",
+      "options": [
+        "A client reporting severe abdominal pain",
+        "A client with elevated potassium but no symptoms",
+        "A client with seasonal allergies controlled by medication",
+        "A client recovering from surgery without complications"
+      ],
+      "correctIndices": [0],
+      "explanation": ""
+    },
+    {
+      "text": "Which scenario is an example of primary prevention?",
+      "options": [
+        "A nurse develops a pamphlet about testicular self-examination.",
+        "A client participates in weekly respiratory rehabilitation.",
+        "A triage nurse administers oxygen in the emergency room.",
+        "An older adult completes routine blood pressure screening."
+      ],
+      "correctIndices": [0],
+      "explanation": ""
+    },
+    {
+      "text": "Which of the following is a modifiable health risk?",
+      "options": [
+        "Female gender",
+        "Current age",
+        "Sedentary lifestyle",
+        "Family history"
+      ],
+      "correctIndices": [2],
+      "explanation": ""
+    },
+    {
+      "text": "A nurse suspects substance use disorder in a client with agitation and seizures. What does this suggest?",
+      "options": [
+        "Agitation and seizures are signs of substance withdrawal.",
+        "Agitation and seizures are signs of substance overdose.",
+        "Agitation and seizures are signs of chronic pain.",
+        "Agitation and seizures are signs of depression."
+      ],
+      "correctIndices": [0],
+      "explanation": ""
+    },
+    {
+      "text": "When teaching adolescents about smoking risk, which information should the nurse include?",
+      "options": [
+        "Vaping is a safe alternative to tobacco use.",
+        "Parental tobacco use increases adolescent tobacco risk.",
+        "Tobacco use usually leads to weight loss.",
+        "Most tobacco use begins in early adulthood."
+      ],
+      "correctIndices": [1],
+      "explanation": ""
+    },
+    {
+      "text": "Which therapy is an example of complementary and alternative medicine (CAM)?",
+      "options": [
+        "Transcutaneous electrical nerve stimulation (TENS)",
+        "Acupuncture",
+        "Hyperbaric oxygen therapy",
+        "Patient-controlled analgesia (PCA)"
+      ],
+      "correctIndices": [1],
+      "explanation": ""
+    },
+    {
+      "text": "Which client should the nurse prioritize based on Maslow's hierarchy of needs?",
+      "options": [
+        "A client experiencing difficulty breathing",
+        "A client anxious about an upcoming surgery",
+        "A client feeling lonely and isolated",
+        "A client requesting information about a new diet plan"
+      ],
+      "correctIndices": [0],
+      "explanation": ""
+    },
+    {
+      "text": "Which community health activity is an example of active health promotion?",
+      "options": [
+        "Implementing policy on clean water",
+        "Organizing a weekly walking group for seniors",
+        "Enforcing a city-wide smoking ban",
+        "Encouraging vitamin D-fortified milk intake"
+      ],
+      "correctIndices": [1],
+      "explanation": ""
+    },
+    {
+      "text": "A nurse is using the holistic health model when caring for a client. Which action best demonstrates this model?",
+      "options": [
+        "Providing printed dietary guidelines for diabetes",
+        "Administering pain medication as prescribed",
+        "Scheduling a follow-up with the healthcare provider",
+        "Encouraging the client to attend a support group for emotional and social needs"
+      ],
+      "correctIndices": [3],
+      "explanation": ""
+    }
+  ]
+}
