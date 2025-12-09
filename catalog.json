@@ -7,11 +7,8 @@
       "remoteURL": "https://raw.githubusercontent.com/Mbstudio101/quizapp-market3/main/sets/medsurg_gi_v1.json",
       "priceUSD": 2.99,
       "questionCount": 40
-    }
-  ]
-
-"items": [
-    {
+    },
+     {
       "id": "medsurg examv1",
       "title": "EXAM V1",
       "description": "High-yield practice questions covering common GI disorders, assessment findings, and priority interventions.",
@@ -20,6 +17,5 @@
       "questionCount": 52
     }
   ]
-  
 }
 
