@@ -1,0 +1,2167 @@
+[
+  {
+    "id" : "4405B2F3-E9B5-4232-AD25-983E1618CDCB",
+    "questions" : [
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "",
+        "id" : "19186156-203F-40F5-9C3E-70B50AC36411",
+        "options" : [
+          "Cataracts",
+          "Retinal detachment",
+          "Dry eye syndrome",
+          "Macular degeneration"
+        ],
+        "text" : "A client arrives to the hospital with complaint of trauma to the right eye. “When I look out my right eye, the right side is becoming black.” What condition should the nurse be concerned for?"
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "",
+        "id" : "DD017520-CD92-4491-AA1B-C90D53F34BCA",
+        "options" : [
+          "\"Use of eye drops will improve vision over time.\"",
+          "\"Glaucoma is caused by inadequate production of fluid within the eye.\"",
+          "\"Without treatment, glaucoma can cause blindness.\"",
+          "\"Double vision is a common symptom of glaucoma.\""
+        ],
+        "text" : "A nurse is providing education for a client who has glaucoma. Which of the following statements should the nurse include in the teaching?"
+      },
+      {
+        "correctIndices" : [
+          2,
+          4,
+          5
+        ],
+        "explanation" : "",
+        "id" : "71DED6AD-D76A-4443-B44C-05E074B6AD36",
+        "options" : [
+          "Forgetfulness",
+          "Aspiration of food",
+          "Tremors",
+          "Dementia",
+          "Weakness",
+          "Slurred speech"
+        ],
+        "text" : "What would a nurse assess for as an initial symptom of Parkinson’s disease? Drag the symptoms to the appropriate column."
+      },
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "",
+        "id" : "74680DC5-636C-46D2-9893-6B4C1C72D71B",
+        "options" : [
+          "Insert a tongue blade in the client’s mouth.",
+          "Protect client from injury.",
+          "Hold the client’s arms and legs from moving.",
+          "Place the client back in bed."
+        ],
+        "text" : "A nurse enters a client’s room and finds the client on the floor having a seizure. Which of the following actions should the nurse take?\""
+      },
+      {
+        "correctIndices" : [
+          5,
+          0
+        ],
+        "explanation" : "",
+        "id" : "FBA371B4-C135-4319-A8E4-CC72F8D29119",
+        "options" : [
+          "Steady gait",
+          "Akinesia",
+          "Increased cogwheel rigidity",
+          "Flat affect",
+          "Slow speech",
+          "Decreased tremor"
+        ],
+        "text" : "A client is being treated with deep brain stimulation for Parkinson’s disease. Which assessment findings indicate the treatment is effective? Select all that apply."
+      },
+      {
+        "correctIndices" : [
+          2,
+          0,
+          3,
+          5
+        ],
+        "explanation" : "",
+        "id" : "12207F22-841A-4F78-9ED1-3FD845D1DE18",
+        "options" : [
+          "Monitor duration of seizure",
+          "Turn the client to a prone position",
+          "Assist client to the floor",
+          "Loosen any restrictive clothing that the client is wearing",
+          "Restrain the client",
+          "Maintain the client’s airway"
+        ],
+        "text" : "A client is ambulating around the unit and begins to experience a tonic-clonic seizure. The nurse should take which action(s)? Select all that apply."
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "",
+        "id" : "30913330-6E34-45C4-A195-71A284D00A02",
+        "options" : [
+          "The client is wearing underwear on the outside of the clothes",
+          "The client is talking on a telephone that is signaling a dial tone",
+          "The client is discussing an upcoming event with the family",
+          "The client is unable to relate his or her name or date of birth"
+        ],
+        "text" : "The home health nurse is caring for a client taking memantine. Which finding indicates the medication is effective?"
+      },
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "",
+        "id" : "5FFE3444-F35F-4F0C-A584-0CA1D703DECF",
+        "options" : [
+          "\"Serum uric acid levels drop.\"",
+          "\"The deposition of uric acid crystals causes inflammation.\"",
+          "\"Calcium deposits form in the kidneys and they impair the excretion of uric acid.\"",
+          "\"Articular cartilage thins, leading to splitting and fragmentation"
+        ],
+        "text" : "A nurse is reviewing the cause of gout with a group of nurses. Which of the following statements should the nurse make?"
+      },
+      {
+        "correctIndices" : [
+          0
+        ],
+        "explanation" : "",
+        "id" : "B5DBFCE2-6165-42E7-B994-26CABEA0E846",
+        "options" : [
+          "Writing directions so the client can read them",
+          "Using a tablet the client can write on",
+          "Speaking in short sentences",
+          "Speaking loudly and slowly"
+        ],
+        "text" : "The client has a diagnosis of expressive aphasia. What is the best way the nurse can teach the client about the plan of care?"
+      },
+      {
+        "correctIndices" : [
+          0
+        ],
+        "explanation" : "",
+        "id" : "E8BB3240-695F-4650-AB42-D4C0D34D1F42",
+        "options" : [
+          "Approach the client on the unaffected side.",
+          "Approach the client on the affected side.",
+          "Approach the client speaking with a loud voice.",
+          "Approach the client with pen and paper"
+        ],
+        "text" : "A nurse in a long-term care facility is caring for an older adult client who had a stroke 4 weeks ago, has left-sided hemiparesis, and who is unable to move independently. How should the nurse approach this client?"
+      },
+      {
+        "correctIndices" : [
+          1,
+          3
+        ],
+        "explanation" : "",
+        "id" : "B2A9ABD1-B93C-4406-9F94-ACC5212D33F2",
+        "options" : [
+          "\"I can walk barefoot in warm weather\"",
+          "\"I will keep regular podiatry appointments\"",
+          "\"I will take my shoes off when I get home\"",
+          "\"I'll check my feet every day for sores and bruises\"",
+          "\"I'll put lotion between my toes\"",
+          "\"I'll soak my feet in hot water every night before I go to bed\""
+        ],
+        "text" : "A nurse is teaching a client who has type 2 diabetes mellitus about foot care. Which statements by the client indicate an understanding of the teaching? Select all that apply."
+      },
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "",
+        "id" : "CF230AE5-9C64-49E9-B20F-C97B23D37CD8",
+        "options" : [
+          "Prone with head of bed flat",
+          "Semi-Fowler’s with the hip and the neck flexed",
+          "Side lying with hip flexed",
+          "Head of the bed elevated 30 degrees with the head in midline position"
+        ],
+        "text" : "The nurse is caring for a client who has just been admitted to the hospital with a diagnosis of a hemorrhagic stroke. The nurse should place the client in which position?"
+      },
+      {
+        "correctIndices" : [
+          0
+        ],
+        "explanation" : "",
+        "id" : "1CDED13B-B67E-4E94-87D8-9CFDB54E8F93",
+        "options" : [
+          "Avoid lifting anything heavier than 4.5 kg (10 lb).",
+          "You may remove your eye patch to sleep at night.",
+          "Sleep on the abdomen to facilitate wound healing.",
+          "Bend at the waist to pick objects up from the floor."
+        ],
+        "text" : "A nurse is reviewing discharge instructions with a client following a right cataract extraction. Which instruction should the nurse include?"
+      },
+      {
+        "correctIndices" : [
+          0,
+          2,
+          4,
+          3,
+          1
+        ],
+        "explanation" : "",
+        "id" : "460763AB-79A3-4B7A-8529-C5CEFDCF6192",
+        "options" : [
+          "Time the seizure began",
+          "Postictal behavior",
+          "Description of seizure movements",
+          "Vital signs",
+          "Airway assessment",
+          "Increased appetite"
+        ],
+        "text" : "Following a generalized seizure in a client, what assessments findings would the nurse include in the documentation of the event?   Select all that apply."
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "",
+        "id" : "83F4D8EE-5A85-4145-84C1-FA73C14E8A16",
+        "options" : [
+          "Teach relaxation breathing to reduce the client's pain.",
+          "Provide the client with antipyretic therapy.",
+          "Administer antibiotics to the client.",
+          "Increase the client’s protein intake."
+        ],
+        "text" : "A nurse is caring for a client who has acute osteomyelitis. Which intervention is the nurse’s priority?"
+      },
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "",
+        "id" : "3EB7F18D-9B8F-4B76-93E0-E95A48CE67C7",
+        "options" : [
+          "Client's neurologic deficits last less than 1 hour",
+          "Client reports difficulty sleeping",
+          "Client continues to maintain consciousness",
+          "Client complains of a severe headache"
+        ],
+        "text" : "A nurse is caring for a client who has had a hemorrhagic stroke following a ruptured cerebral aneurysm. Which complaint requires action?"
+      },
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "",
+        "id" : "2D989CF0-676B-4F3E-B651-323C16BD86EC",
+        "options" : [
+          "\"I will be more thirsty than usual\"",
+          "\"My skin will be warm and dry\"",
+          "\"My appetite will be decreased\"",
+          "\"I will feel shaky"
+        ],
+        "text" : "A nurse is teaching a client who has a new diagnosis of diabetes mellitus. Which statement by the client indicates an understanding of hypoglycemia?"
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "",
+        "id" : "6BE7EACF-47C4-4D7A-A7E3-8864ECEE2606",
+        "options" : [
+          "Methotrexate",
+          "Alprazolam",
+          "Allopurinol",
+          "Spironolactone"
+        ],
+        "text" : "Which medication would the nurse prepare for the client with stable gout?"
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "",
+        "id" : "7726B207-6DF1-40A1-9A05-1CDA2F96B07E",
+        "options" : [
+          "Reduced peripheral vision",
+          "Decreased nausea and vomiting",
+          "Decreased intraocular pressure",
+          "Halos around lights"
+        ],
+        "text" : "The client with chronic open-angle glaucoma is receiving timolol eye drops. Which evaluation finding would indicate to the nurse the treatment is working?"
+      },
+      {
+        "correctIndices" : [
+          1,
+          3,
+          0
+        ],
+        "explanation" : "",
+        "id" : "69541E1C-3A2B-4685-B5E8-D64E0E6407B0",
+        "options" : [
+          "Loosening restrictive clothing",
+          "Removing the pillow and raising padded side rails",
+          "Restraining the client’s limbs",
+          "Positioning the client to the side, if possible, with the head flexed forward",
+          "Keeping the curtain around the client and the room door open so when help arrives they can quickly enter to assist"
+        ],
+        "text" : "The nurse is caring for a client who begins to experience seizure activity while in bed. Which actions should the nurse take? Select all that apply."
+      },
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "",
+        "id" : "EF5E42B7-190F-4F7C-A3B7-4F164FFBA965",
+        "options" : [
+          "Cloudy vision",
+          "Sudden decline in vision",
+          "Gradual decrease in visual acuity",
+          "Curtain-like loss of peripheral vision"
+        ],
+        "text" : "When assessing a client with acute closed angle glaucoma (PACG), a nurse expects which finding?"
+      },
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "",
+        "id" : "1DF74107-50D3-4FD6-AF5F-73D7FDFAC7EF",
+        "options" : [
+          "Brief jerking movements of an extremity",
+          "Sudden loss of muscle tone",
+          "Lip smacking and eyelid fluttering",
+          "Stiffness followed by jerking movements"
+        ],
+        "text" : "The nurse recognizes that atonic seizures are characterized by which of the following?"
+      },
+      {
+        "correctIndices" : [
+          0,
+          2,
+          4,
+          5
+        ],
+        "explanation" : "",
+        "id" : "95AB190C-2D9F-44CF-BF9F-247FF532B9C9",
+        "options" : [
+          "Aging",
+          "Diuretics",
+          "Obesity",
+          "Bacteria",
+          "Trauma",
+          "Occupation"
+        ],
+        "text" : "Which risk factor(s) should the nurse include in the teaching about osteoarthritis?Select all that apply."
+      },
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "",
+        "id" : "4BCC6F33-070D-42A4-B9D7-F07DF126939B",
+        "options" : [
+          "Prepare to administer tissue plasminogen activator (tPA).",
+          "Bring the client for the scheduled computed tomography (CT) scan of the head.",
+          "Notify the speech pathologist for an emergency consult.",
+          "Discuss the precipitating factors that caused the symptoms."
+        ],
+        "text" : "A 68-year-old client is admitted to the emergency department (ED) with numbness and weakness of the left arm and slurred speech. Which nursing intervention is a priority?"
+      },
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "",
+        "id" : "4AD91789-D92A-48A0-9D1D-65C36FAE38D1",
+        "options" : [
+          "Upcoming surgical procedures",
+          "Last known well time",
+          "Current medications",
+          "Complete physical and history"
+        ],
+        "text" : "When the client arrives in the emergency department with an ischemic cerebral vascular accident (CVA), what is the priority for the nurse to assess in relation to the treatment of tissue plasminogen activator (tPA) alteplase administration?"
+      },
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "",
+        "id" : "8959CDAF-170E-455E-944E-A7DC5D32E56E",
+        "options" : [
+          "250",
+          "225",
+          "650",
+          "900"
+        ],
+        "text" : "A client who weighs 75 kg has an order a IV loading dose for levetiracetam 60 mg\/kg over 15 minutes.Available supply is 1 g\/50 mL solution.What rate will the nurse program the intravenous pump?Round answer to the tenths place.Record numeric answer only."
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "",
+        "id" : "4821F138-C5B9-4442-98B7-D9EB6D9EC042",
+        "options" : [
+          "Low-grade fever",
+          "Anorexia",
+          "Knuckle deformity",
+          "Weight loss"
+        ],
+        "text" : "A nurse in a provider’s office is assessing a client who has rheumatoid arthritis (RA). Which finding will the nurse teach the client with rheumatoid arthritis (RA) is a late manifestation of this condition?"
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "",
+        "id" : "2436C1DE-5F03-41AA-B13B-4E24F90249F8",
+        "options" : [
+          "\"Examine your feet weekly\"",
+          "\"Avoid eating for 2 hr. before exercise\"",
+          "\"Do not exercise if ketones are present in your urine\"",
+          "\"Perform vigorous exercise when blood glucose is less than 100 mg\/dL\""
+        ],
+        "text" : "Which information will the nurse include in client education for type 1 diabetes mellitus?"
+      },
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "",
+        "id" : "9813DD43-CF2C-4425-A4FD-FDE3F47086E9",
+        "options" : [
+          "Loss of the ability to write.",
+          "Difficulty articulating words.",
+          "Inability to recognize familiar objects.",
+          "Sentences will include words that are irrelevant or non-existent."
+        ],
+        "text" : "A client is diagnosed with dysarthria secondary to an ischemic stroke. The nurse understands the client will display what symptom?"
+      },
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "",
+        "id" : "B516F93E-2FC1-4FDB-ACCB-A1BF034CF044",
+        "options" : [
+          "A 40-year-old male who is 72 inches tall, eats a vegan diet, and participates in competitive martial arts",
+          "A 30-year-old female who is 15 lbs (6.8 kg) overweight and walks 2 miles daily",
+          "A 50-year-old male with type 1 diabetes mellitus who lifts weights for exercise",
+          "A 50-year-old female who drinks 48 oz (1250 mL) of diet cola daily and uses high-protection sunscreen"
+        ],
+        "text" : "Which client will the nurse determine has the highest risk for osteoporosis?"
+      },
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "",
+        "id" : "26075F18-2DDD-4E8E-9F50-015EAE161F21",
+        "options" : [
+          "22",
+          "24",
+          "12",
+          "30"
+        ],
+        "text" : "The order indicates to infuse regular insulin at 12 units per hour. The concentration reads 125 units per 250 mL. What rate will the infusion pump be set in mL\/hr? Round to the nearest whole number. Enter numeric answer only. Answer: ( ) mL\/hr"
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "",
+        "id" : "03D844B5-545E-4CF8-BE5D-63FA7D61F10B",
+        "options" : [
+          "35.5",
+          "36",
+          "35.6",
+          "37.5",
+          "40"
+        ],
+        "text" : "A client was determined to have had an ischemic stroke and has an order for alteplase 0.9 mg\/kg over 60 minutes. The client weighs 173.8 pounds. The available supply is 100 mg in 50 mL normal saline. What rate will the nurse program the intravenous pump? Round answer to the nearest tenths place. Record numeric answer only. Answer: (1) mL\/hr"
+      },
+      {
+        "correctIndices" : [
+          0
+        ],
+        "explanation" : "",
+        "id" : "45F186E9-EC4F-4C2F-83C4-84179BC1B52E",
+        "options" : [
+          "2350",
+          "1350",
+          "4605",
+          "2673"
+        ],
+        "text" : "A client with severe dehydration received a 1 liter bolus of normal saline over a two hour period and then normal saline at 225 mL\/hr for the next six hours. How many milliliters of fluid did the client receive in this eight hour time period? Round answer to the nearest whole number. Record numeric answer only."
+      },
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "",
+        "id" : "4707955C-A878-4089-B072-638A5575E30E",
+        "options" : [
+          "Embolic Stroke",
+          "Transient ischemic attack (TIA)",
+          "Thrombotic Stroke",
+          "Hemorrhagic Stroke"
+        ],
+        "text" : "A nurse in an emergency department is caring for a client who had a seizure and became unresponsive after stating they had a sudden, severe headache and vomiting. The client’s vital signs are as follows: blood pressure of 198\/110 mm Hg, pulse of 82\/min, respirations of 24\/min, and a temperature of 38.2° C (100.8° F). Which neurologic disorder should the nurse suspect?\""
+      },
+      {
+        "correctIndices" : [
+          0
+        ],
+        "explanation" : "",
+        "id" : "E84E9AB5-EB65-44A8-AA8B-C40B1EA23DA7",
+        "options" : [
+          "Reduce hypertension and high blood cholesterol levels",
+          "Increase the intake of proteins and carbohydrates",
+          "Increase body weight moderately",
+          "Increase the fluids and hydration"
+        ],
+        "text" : "A client who recently experienced a cerebrovascular accident (CVA) asks the nurse about ways to reduce the risk for another CVA. Which is an accurate suggestion for the client?"
+      },
+      {
+        "correctIndices" : [
+          0
+        ],
+        "explanation" : "",
+        "id" : "EC150605-9B14-4AE3-8130-1908E9BB2509",
+        "options" : [
+          "Do not cross your legs",
+          "Bend at the waist to put shoes on when sitting",
+          "Use a twisting motion when turning to pick an object up",
+          "Cleanse the incision with hydrogen peroxide"
+        ],
+        "text" : "A nurse is providing discharge teaching to a client who had a total hip arthroplasty. Which information should the nurse include in the teaching?"
+      },
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "",
+        "id" : "7DF2FA7F-C0E5-4534-9B92-2C9DBEEF864A",
+        "options" : [
+          "They have difficulty remembering how to swallow",
+          "They frequently misplace commonly used items",
+          "They have difficulty with reading",
+          "They are unable to recognize family members"
+        ],
+        "text" : "What will the nurse include when teaching about clients during the early stage of Alzheimer’s Disease?\""
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "",
+        "id" : "D24EAC7B-CF88-4029-B8F2-31A329AB7F8D",
+        "options" : [
+          "6.3%",
+          "5.8%",
+          "9.2%",
+          "5%"
+        ],
+        "text" : "The visiting nurse is seeing a client with diabetes mellitus. Which glycosylated hemoglobin value (HbA1c) requires further action?\""
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "",
+        "id" : "531FDC3E-573E-450F-B0E5-DF296F1603C2",
+        "options" : [
+          "Broad-based and waddling",
+          "Walking on the toes",
+          "Shuffling and propulsive",
+          "Unsteady and staggering"
+        ],
+        "text" : "The nurse is caring for a client with Parkinson’s disease. Which finding about gait should the nurse expect to note in the client?\""
+      },
+      {
+        "correctIndices" : [
+          0
+        ],
+        "explanation" : "",
+        "id" : "FFD089F6-0009-47AF-9314-E885A4FD11CF",
+        "options" : [
+          "Client taking raloxifene who reports unilateral calf swelling",
+          "Client taking celecoxib who cannot remember when the last dose was",
+          "Client taking alendronate who reports occasional dyspepsia",
+          "Client taking calcium with vitamin D who reports flank pain 2 weeks ago"
+        ],
+        "text" : "A nurse is caring for four clients at an osteoporosis clinic. Which client would the nurse assess first?\""
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "",
+        "id" : "D4AAE26C-22F2-43B6-83D7-A53B868AF529",
+        "options" : [
+          "Pill rolling of fingers",
+          "Masklike face",
+          "Crackles",
+          "Bradykinesia"
+        ],
+        "text" : "The client diagnosed with Parkinson’s disease (PD) is being admitted with urinary tract infection. Which assessment finding is a priority for this client?\""
+      },
+      {
+        "correctIndices" : [
+          0
+        ],
+        "explanation" : "",
+        "id" : "1DE29324-86B6-4A50-9F5F-0CDBCD272ED3",
+        "options" : [
+          "A client who is status post a total knee replacement and reports numbness and paresthesia",
+          "A client who has pneumonia and has an axillary temperature of 98°F",
+          "A client who has diarrhea and requests clear liquids for breakfast",
+          "A client who has type 1 diabetes mellitus and a fasting glucose of 150"
+        ],
+        "text" : "A nurse is assessing four clients on a medical-surgical unit. Which client should the nurse care for first?\""
+      },
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "",
+        "id" : "D4E07AE9-DE8B-41A1-9E34-3D6C000FD37B",
+        "options" : [
+          "Client is able to recognize family members",
+          "Client is alert and oriented x4",
+          "Client has decreased seizure frequency",
+          "Client is able to feed self with minimal assistance"
+        ],
+        "text" : "The nurse is caring for a client prescribed levodopa\/carbidopa. Which assessment finding indicates the medication is effective?\""
+      },
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "",
+        "id" : "07B12CC4-DD6B-4D76-A8EA-7A304B425600",
+        "options" : [
+          "Impulsive behavior",
+          "Difficulty comprehending instructions",
+          "Right pronator drift",
+          "Hyperactive left-sided tendon reflexes"
+        ],
+        "text" : "The nurse is caring for a patient with a left hemisphere stroke. Which finding should the nurse expect?\""
+      },
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "",
+        "id" : "5C31CD59-B101-4A23-8577-4A6AD0D27D69",
+        "options" : [
+          "Use confrontation to manage negative behavior",
+          "Remove safety hazards such as knives and toxic substances",
+          "Provide a cognitively stimulating environment",
+          "Change the client’s routines daily"
+        ],
+        "text" : "A nurse is planning care for a client who has Stage 2 Alzheimer’s Disease. Which of the following interventions should the nurse include in the plan of care?"
+      },
+      {
+        "correctIndices" : [
+          0
+        ],
+        "explanation" : "",
+        "id" : "F4C1F4B7-78BB-4880-B296-2FDD6080DA0D",
+        "options" : [
+          "4 units",
+          "6 units",
+          "8 units",
+          "10 units"
+        ],
+        "text" : "A client with diabetes mellitus receives lispro coverage with a 1:15 ratio for carbohydrates.The client ate 1\/2 cup of carrots, 1 medium pepper, 6 ounces salmon, 3\/4 cup of rice, and one medium apple.How many units of insulin will the nurse administer to the client? Round down to the nearest whole number. Record numeric answer only. Answer: ___ units.\n\nFood & Beverages: Chicken + Serving Size 4oz + Carbohydrates (g) 0\n\nFood & Beverages: Salmon + Serving Size 3 oz + Carbohydrates (g) 1\n\nFood & Beverages: Rice + Serving Size 1 cup + Carbohydrates (g) 45\n\nFood & Beverages: Dinner Roll + Serving Size 1 roll + Carbohydrates (g) 13\n\nFood & Beverages: Pepper + Serving Size 1 Medium + Carbohydrates (g) 10"
+      }
+    ],
+    "title" : "NUR 304 EXAM 5"
+  },
+  {
+    "id" : "107F4E58-1E3A-4537-A3AB-7F9F26F54CAF",
+    "questions" : [
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "",
+        "id" : "37493C4C-6B65-4F19-B3E2-C846B3158C92",
+        "options" : [
+          "Bowel obstruction",
+          "Biliary obstruction",
+          "Perforation",
+          "Diverticulitis"
+        ],
+        "text" : "A client reports clay-colored stools. Which condition does the nurse anticipate planning care for?"
+      },
+      {
+        "correctIndices" : [
+          0
+        ],
+        "explanation" : "",
+        "id" : "8971F33E-91DC-4B01-B125-BB68ACB70210",
+        "options" : [
+          "Positive Chvostek’s sign",
+          "Calcium deposits in the tissues",
+          "Increased thyroid stimulating hormone (TSH)",
+          "Increased kidney stone formation"
+        ],
+        "text" : "A nurse is assessing a client who has hypoparathyroidism. Which finding would confirm the diagnosis?\""
+      },
+      {
+        "correctIndices" : [
+          0,
+          3,
+          4
+        ],
+        "explanation" : "Signs & Symptoms of Recurrence of a Lower GI Bleed\n\n(What the nurse SHOULD monitor for)\n\nHypotension\nBleeding causes decreased circulating volume → low BP.\n\nMelena\nLower GI bleed may cause maroon or dark, tarry stools depending on location and speed of bleeding.\n\nPositive fecal occult blood test\nIndicates ongoing or recurrent GI bleeding.\n\n❌ Not Associated With Acute Recurrence of a Lower GI Bleed\n\n(These are unrelated or non-acute indicators)\n\nHematemesis\nVomiting blood = UPPER GI bleeding, not lower.\n\nWeight loss\nChronic issue, not a sign of sudden recurrent bleeding.\n\nFlatulence\nNot related to bleeding.",
+        "id" : "04461780-4C95-4A3E-988D-1A6CB3DFC5E0",
+        "options" : [
+          "Hypotension",
+          "Hematemesis",
+          "Weight loss",
+          "Melena",
+          "Positive fecal occult blood test",
+          "Flatulence"
+        ],
+        "text" : "A client who experienced a lower gastrointestinal (GI) bleed has had the bleeding controlled and is now stable. For the next several hours, the nurse caring for this client should assess for what signs and symptoms of recurrence? Drag the symptoms to the appropriate column.\""
+      },
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "Frequent mood swings\nRationale:\n\nWhen treatment for hyperthyroidism is effective, the client should move toward a more normal metabolic state.\nIf treatment is not effective, the client may continue to show symptoms of excess thyroid hormone, such as:\n\nIrritability\n\nAnxiety\n\nMood swings\n\nRestlessness\n\nEmotional lability\n\nThese indicate persistent increased metabolic activity, meaning the treatment isn’t controlling the hyperthyroidism.\n\n❌ Why the other options are wrong:\n\nA. Sensitivity to cold – Sign of hypothyroidism, meaning the treatment may be too effective, not ineffective.\n\nB. Constipation – Also a sign of hypothyroidism, not uncontrolled hyperthyroidism.\n\nC. Weight gain – Again indicates hypothyroidism or slowed metabolism; not a failure to treat hyperthyroidism.",
+        "id" : "ECDD8029-A783-4955-B412-62B1EF02FAD7",
+        "options" : [
+          "Sensitivity to cold",
+          "Constipation",
+          "Weight gain",
+          "Frequent mood swings"
+        ],
+        "text" : "A nurse is caring for a client who has hyperthyroidism. Which symptom would the nurse educate the client to report as treatment not being effective for hyperthyroidism?"
+      },
+      {
+        "correctIndices" : [
+          3,
+          1,
+          2
+        ],
+        "explanation" : "",
+        "id" : "37EBF1B9-319E-4903-A387-C090D696D9AC",
+        "options" : [
+          "“I will increase my fluid intake with sparkling water and diet soda.”",
+          "“I will consume less caffeine and fewer spicy foods.”",
+          "“I will avoid wearing restrictive clothing.”",
+          "“I will sleep with the head of my bed elevated.”",
+          "“I will lie down for one half hour after meals."
+        ],
+        "text" : "The nurse is teaching a client who has a sliding hiatal hernia about lifestyle modifications. Which of the following client statements indicates an understanding of the teaching? Select all that apply."
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "The correct response is:\n\n“I have less epigastric pain.”\nRationale:\n\nA decrease in epigastric pain indicates that GERD symptoms are improving and the current treatment plan is effective.\n\nWhy the others are incorrect:\n\n“I have been scheduled to undergo Laparoscopic Nissen Fundoplication surgery next week.”\n➤ This indicates treatment was not effective and surgery is now needed.\n\n“I take my antacid tablets with me wherever I go.”\n➤ Suggests symptoms are persistent enough to require frequent relief.\n\n“I experience a burning sensation in my chest that keeps me up at night.”\n➤ Indicates worsening GERD.",
+        "id" : "0047509E-C561-436D-9CAE-0930F1447751",
+        "options" : [
+          "“I have been scheduled to undergo Laparoscopic Nissen Fundoplication surgery next week.”",
+          "“I take my antacid tablets with me wherever I go.”",
+          "“I have less epigastric pain.”",
+          "“I experience a burning sensation in my chest that keeps me up at night.”"
+        ],
+        "text" : "The nurse is evaluating a client receiving treatment for gastroesophageal reflux disease (GERD). Which statement made by the client would indicate to the nurse that the treatment is effective?"
+      },
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "The correct answer is:\n\nThe client should not be given any food and fluids until the gag reflex returns.\nRationale:\n\nAfter an EGD, a local anesthetic is used to numb the throat. This temporarily suppresses the gag reflex, putting the client at high risk for aspiration if they eat or drink too soon.\n➡️ Priority = Airway protection.\n\nWhy the other options are not priority:\n\nAssess lung sounds every 8 hours\nNot the immediate concern. Aspiration prevention comes first.\n\nMonitor for cramping or abdominal distention\nMore relevant for colonoscopy, not EGD.\n\nMeasure fluid output for 24 hours\nNot related to EGD recovery.",
+        "id" : "177FD8B9-8FE4-48FB-9806-5FBB4739BCA5",
+        "options" : [
+          "The client’s lung sounds should be assessed every 8 hours",
+          "The client should not be given any food and fluids until the gag reflex returns",
+          "The client should be monitored for cramping or abdominal distention",
+          "The client’s fluid output should be measured for at least 24-hours after the procedure"
+        ],
+        "text" : "A nurse is caring for a client following an esophagogastroduodenoscopy (EGD) procedure that a local anesthetic was applied. Which nursing intervention is the priority for this client?"
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "",
+        "id" : "1733E6C0-2889-40AD-BA47-3D0DFFB6BDC3",
+        "options" : [
+          "The client diagnosed with intermittent nausea after meals with high fat intake",
+          "The client with a history of urinary retention who reports lower abdominal pain and dysuria",
+          "The client with diverticulitis who has severe left lower quadrant pain and fever",
+          "The client diagnosed with dyspepsia who has eructation and bloating"
+        ],
+        "text" : "After obtaining report at the beginning of the shift, which client will the nurse see first?"
+      },
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "",
+        "id" : "A46FE3EE-4680-4899-8630-7D6981A4157B",
+        "options" : [
+          "Assessing the client’s voice once per shift",
+          "Encourage the client to be out of bed into the chair",
+          "Administering oxygen via nasal cannula as needed",
+          "Assess the client’s airway upon arrival to the floor"
+        ],
+        "text" : "The nurse is caring for a client postoperative for a total thyroidectomy. What is the priority action by the nurse?"
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "",
+        "id" : "8EC46EC7-86C9-4EAB-992F-2505EE6518DC",
+        "options" : [
+          "“You can expect the stoma to be purplish in color for the first week.”",
+          "“You may initially experience a large amount of bleeding around the stoma.”",
+          "“You will need to empty the colostomy when it is one-third to one-half full.”",
+          "“Monitor the skin around the stoma weekly for breakdown.”"
+        ],
+        "text" : "A nurse is providing teaching to a client who has a new colostomy. Which information should the nurse include in the teaching?"
+      },
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "The correct answer is:\n\nDuodenal ulcer\nRationale:\n\nThe assessment findings match the classic symptoms of a duodenal ulcer:\n\nPain below the epigastric area\n\nPain relieved by food\n\nPain occurring at night (“nighttime awakening with pain”)\n\nWell-nourished appearance (duodenal ulcer clients tend to eat to relieve pain, so they do not lose weight)\n\nReports increased acid secretion (duodenal ulcers are associated with increased gastric acid production)\n\nWhy the other options are incorrect:\n\nGastric ulcer\n\nPain worsens with food, not relieved by it.\n\nClients often lose weight because eating causes discomfort.\n\nGERD\n\nBurning and regurgitation after meals; not typically relieved by eating.\n\nPerforated stomach\n\nSudden, severe abdominal pain, rigid abdomen, signs of shock — this is an emergency and does not match the exhibit.",
+        "id" : "BE340A29-AA6D-4A2E-9484-25C35EBCD2DB",
+        "options" : [
+          "Gastric ulcer",
+          "Gastroesophageal reflux disease (GERD)",
+          "Perforated stomach",
+          "Duodenal ulcer"
+        ],
+        "text" : "A nurse evaluates a client in the emergency department (ED). (See Exhibit: Client Assessment). The nurse plans care for which condition?\n\nExhibit Summary (Client Assessment):\nWell-nourished appearance.\nReports increased stomach acid secretions.\nReports experiencing pain at night often.\nReports pain below the epigastric area which is relieved with food."
+      },
+      {
+        "correctIndices" : [
+          5,
+          4,
+          2,
+          3
+        ],
+        "explanation" : "The liver is responsible for:\n\nProducing clotting factors → liver disease causes ↑ bleeding risk.\n\nSynthesizing albumin → low levels cause edema\/ascites.\n\nProcessing bilirubin → buildup causes jaundice.\n\nDetoxifying ammonia → buildup can lead to hepatic encephalopathy.\n\nThese labs directly indicate liver function.\n\n❌ Not typically evaluated for liver disease:\n\nBlood urea nitrogen (BUN)\n\nReflects kidney function, not liver-specific.\n\nTroponin\n\nCardiac marker only; unrelated to liver disease.",
+        "id" : "4B32EE33-4489-409F-BAB9-75FD484C88C0",
+        "options" : [
+          "Blood urea nitrogen (BUN)",
+          "Troponin",
+          "Clotting factors",
+          "Albumin",
+          "Bilirubin",
+          "Ammonia"
+        ],
+        "text" : "A nurse is assessing a client who has liver disease. What will the nurse evaluate? Select all that apply."
+      },
+      {
+        "correctIndices" : [
+          2,
+          5,
+          1
+        ],
+        "explanation" : "✅ Correct (Select all that apply):\n\nAvoid chocolate\n\nAvoid drinking alcohol\n\nAvoid spicy foods\n\nWhy these are correct:\n\nThese foods and beverages relax the lower esophageal sphincter (LES) or increase acid production, worsening GERD symptoms.\n\n❌ Incorrect Options:\n\nAdopt a low-fiber diet\n\nFiber has no connection to GERD management.\n\nAvoid NSAIDs\n\nRecommended for ulcers and gastritis, but not specifically GERD unless another condition is present.\n\nFollow the DASH diet\n\nDASH is for hypertension, not GERD.",
+        "id" : "80762D2C-E411-4CC0-BE73-01155243A871",
+        "options" : [
+          "Adopt a low-fiber diet",
+          "Avoid chocolate",
+          "Avoid drinking alcohol",
+          "Avoid nonsteroidal anti-inflammatories (NSAIDs)",
+          "Follow the DASH diet",
+          "Avoid spicy foods"
+        ],
+        "text" : "A nurse is caring for an adult client with a history of gastroesophageal reflux disease (GERD). Which should the nursing include in the education plan? Select all that apply."
+      },
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "",
+        "id" : "9F8EC7C7-C344-41F9-BE78-7411A30F102A",
+        "options" : [
+          "Re-educate the client on needed dietary changes",
+          "Assess the client’s coping and support systems",
+          "Inform the client that things will get easier",
+          "Tell the client that lifestyle changes are always hard"
+        ],
+        "text" : "A client is in the bariatric clinic 1 month after having gastric bypass surgery. The client is crying and says, “I didn’t know it would be this hard to live like this.” What approach by the nurse is best?"
+      },
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "",
+        "id" : "FE42D8C5-E840-45DE-87B5-246CF201B746",
+        "options" : [
+          "Expect stool to form 5–7 days post-op",
+          "Empty the ostomy bag when it is 2\/3 full",
+          "Sanguineous blood will be present in stool for 5–7 days",
+          "Stoma should be moist and pink"
+        ],
+        "text" : "A nurse is completing discharge teaching with a client who is 3 days postoperative following a transverse colostomy. Which of the following should the nurse include in the teaching?"
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "The correct answer is:\n\nMonitor for signs of electrolyte imbalance\nRationale:\n\nAfter gastric surgery, an NGT is used to decompress the stomach. Continuous suction can lead to loss of gastric acid and fluids, which puts the client at risk for:\n\nHypokalemia\n\nHyponatremia\n\nMetabolic alkalosis\n\nMonitoring for electrolyte imbalance is essential and expected.\n\nWhy the other options are incorrect:\n\nChange the NGT at least once every 48 hours\n❌ NGTs are not routinely changed unless blocked or contaminated. Frequent changes increase trauma risk.\n\nConnect the NGT to high continuous suction\n❌ This can damage the gastric sutures after surgery.\nNGTs post–gastric surgery are usually set to low intermittent suction, unless the surgeon orders otherwise.\n\nAssess placement by injecting 10 mL of normal saline\n❌ Injecting anything, including air or saline, is not recommended for checking placement.\nPlacement should be verified by pH, aspiration, or x-ray (initially).",
+        "id" : "CB06072F-5138-448B-A0D2-D31D56846E71",
+        "options" : [
+          "Change the NGT at least once every 48 hours",
+          "Connect the NGT to high continuous suction",
+          "Monitor for signs of electrolyte imbalance",
+          "Assess placement by injecting 10 mL of normal saline into the tube"
+        ],
+        "text" : "After gastric surgery a client has a nasogastric tube (NGT) in place. What should the nurse do when caring for this client?"
+      },
+      {
+        "correctIndices" : [
+          0
+        ],
+        "explanation" : "The correct answer is:\n\nThe NGT will decompress my stomach\nRationale:\n\nFor a small bowel obstruction, an NGT is used to:\n\nDecompress the stomach\n\nRemove gastric contents\n\nReduce vomiting, distention, and pressure\n\nPrevent aspiration\n\nThis is the primary purpose of the NGT in this situation.\n\nWhy the other options are incorrect:\n\n“The pH of gastric secretions will be checked by the NGT”\n❌ That refers to verifying tube placement, not the purpose of the tube.\n\n“The NGT will supply nutrients via tube feedings”\n❌ Clients with small bowel obstruction are NPO until the obstruction resolves. Feeding is NOT done.\n\n“My medications will be administered by the NGT”\n❌ Contraindicated because of the obstruction and risk of vomiting\/aspiration.",
+        "id" : "2625C7BF-5396-435C-BB3F-887D271B290A",
+        "options" : [
+          "The NGT will decompress my stomach",
+          "The pH of gastric secretions will be checked by the NGT",
+          "The NGT will supply nutrients via tube feedings",
+          "My medications will be administered by the NGT"
+        ],
+        "text" : "A nurse is teaching a client who has a prescription for a nasogastric tube (NGT) to treat a small bowel obstruction. Which client statement indicates teaching has been successful?"
+      },
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "The correct answer is:\n\nAssessment of vital signs\nRationale:\n\nA client with upper GI bleeding is at risk for:\n\nHypovolemic shock\n\nRapid blood loss\n\nHemodynamic instability\n\nThe priority is to assess vital signs to determine:\n\nBlood pressure\n\nHeart rate\n\nRespiratory status\n\nPerfusion\n\nNeed for immediate intervention (e.g., fluids, oxygen, transfusion)\n\nThis establishes the client’s stability and guides all further actions.\n\nWhy the other options are not priority:\n\nCompletion of abdominal examination\n❌ Important, but not prioritized over assessing hemodynamic status.\n\nThorough investigation of precipitating events\n❌ History is secondary to ensuring the client is stable.\n\nInsertion of the prescribed NGT\n❌ This may be needed, but not before determining vital stability. NGT insertion can worsen instability or cause aspiration if the client is not stable.",
+        "id" : "3940259F-68AB-4D3C-86D3-8550ABBB442C",
+        "options" : [
+          "Completion of abdominal examination",
+          "Thorough investigation of precipitating events",
+          "Insertion of the prescribed nasogastric tube",
+          "Assessment of vital signs"
+        ],
+        "text" : "A client presents to the emergency department with upper gastrointestinal bleeding and is in moderate distress. In planning care, what is the priority nursing action for this client?"
+      },
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "",
+        "id" : "9B8CE592-6A09-43FC-B028-19E4B0D90E4D",
+        "options" : [
+          "Include foods high in fiber",
+          "Include foods high in starch and proteins",
+          "Avoid foods high in sodium",
+          "Avoid foods high in fat"
+        ],
+        "text" : "A nurse is preparing dietary instructions for a client who has episodes of biliary colic from chronic cholecystitis. Which of the following instructions should the nurse include in the teaching plan?"
+      },
+      {
+        "correctIndices" : [
+          0
+        ],
+        "explanation" : "",
+        "id" : "C3D242AE-74A7-48E7-937B-1020DDC0B370",
+        "options" : [
+          "Fractures",
+          "Fluid retention",
+          "Impaired skin integrity",
+          "Dysphagia"
+        ],
+        "text" : "A nurse is teaching a client who has a new diagnosis of hyperparathyroidism. Which possible complication should the nurse include in the teaching plan?"
+      },
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "",
+        "id" : "A13CF434-DC00-4306-AD47-449754BBCFED",
+        "options" : [
+          "Blood pressure 138\/60",
+          "Hematocrit 42",
+          "Platelets 400,000",
+          "Hematochezia"
+        ],
+        "text" : "The nurse is caring for a client with a gastrointestinal bleed from the colon. Which finding requires nursing action?"
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "The correct answer is:\n\nTake the combination of three medications for 14 days as ordered\nRationale:\n\nA gastric ulcer caused by H. pylori requires triple therapy (or sometimes quadruple therapy), which usually includes:\n\nTwo antibiotics (e.g., amoxicillin, clarithromycin, metronidazole)\n\nA proton pump inhibitor (PPI)\n\nIt is critical that the client completes the full 14-day regimen to eradicate the infection and prevent recurrence.\n\nWhy the other options are incorrect:\n\nEducate on stress-reduction techniques\n✔ Helpful, but NOT the priority for H. pylori infection treatment.\n\nDiscuss placing the head of the bed on elevated blocks\n✔ This is for GERD, not H. pylori–related ulcers.\n\nTeach to never use NSAIDs again\n✔ Important for NSAID-induced ulcers — not required for H. pylori ulcers unless other risks are present.",
+        "id" : "9627ECD6-3C1B-4E92-8ECF-A0BB0DD90B68",
+        "options" : [
+          "Educate on stress-reduction techniques",
+          "Discuss placing the head of the bed on elevated blocks",
+          "Take the combination of three medications for 14 days as ordered",
+          "Teach to never use NSAIDs again"
+        ],
+        "text" : "The client is diagnosed with a gastric ulcer due to a Helicobacter pylori infection. Which discharge instruction should the nurse teach?"
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "The correct priority finding is:\n\nNausea, vomiting, and diarrhea\nRationale:\n\nAn ascending (proximal) colon obstruction affects the early part of the large intestine. Because the blockage is high, the client is at greatest risk for fluid and electrolyte imbalance and dehydration due to:\n\nProfuse vomiting\n\nDiarrhea leaking around the obstruction\n\nInability to move contents forward\n\nThese symptoms signal worsening obstruction and possible metabolic alkalosis or fluid loss, making this the priority.\n\nWhy the other options are not priority:\n\nAbsent bowel sounds distal to the obstruction\n– Expected finding in a bowel obstruction, not an emergency.\n\nHyperactive bowel sounds distal to the obstruction\n– This is incorrect pathophysiology; hyperactive sounds occur above, not below, an obstruction.\n\nEpigastric distention and dyspepsia\n– These may occur, but they are not as urgent as the fluid-loss symptoms.",
+        "id" : "228D9FD4-9EAA-4C1F-A476-2FB7680D5819",
+        "options" : [
+          "Absent bowel sounds distal to the obstruction",
+          "Hyperactive bowel sounds distal to the obstruction",
+          "Nausea, vomiting, and diarrhea",
+          "Epigastric distention and dyspepsia"
+        ],
+        "text" : "A nurse is caring for a client who has an obstruction of the ascending colon. Which finding is the nursing priority?"
+      },
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "The correct answer is:\n\nTingling around the mouth\nRationale:\n\nAfter a thyroidectomy, there is a risk of accidental removal or injury to the parathyroid glands, leading to hypocalcemia.\n\nEarly signs of hypocalcemia include:\n\nPerioral tingling (tingling around the mouth)\n\nTingling in fingers and toes\n\nMuscle cramps\n\nPositive Chvostek’s and Trousseau’s signs\n\nPerioral tingling is one of the first and most sensitive indicators.\n\nWhy the other options are incorrect:\n\nAbsent Chvostek’s sign\n– A positive sign indicates hypocalcemia, not absent.\n\nBradycardia\n– Not a classic sign of hypocalcemia.\n\nFlaccid paralysis\n– Seen more with hyperkalemia, not low calcium.",
+        "id" : "7882B86E-3E0D-41E6-976C-A2AE60F1FC92",
+        "options" : [
+          "Absent Chvostek’s sign",
+          "Bradycardia",
+          "Flaccid paralysis",
+          "Tingling around the mouth"
+        ],
+        "text" : "The nurse is monitoring a client for signs of hypocalcemia after thyroidectomy. Which sign or symptom, if noted in the client, would most likely indicate the presence of hypocalcemia?"
+      },
+      {
+        "correctIndices" : [
+          3,
+          1,
+          4,
+          2
+        ],
+        "explanation" : "✅ Correct (Select all that apply):\n\nAssess for proper placement of the tube before medication administration\n\nSecure the NG tube to the client’s nose\n\nMonitor the client’s skin around the tube site for irritation\n\nFlush the NG tube with lukewarm water as ordered\n\nRationale for correct actions:\n\nPlacement must always be verified before giving meds or flushes to prevent aspiration.\n\nSecuring the tube prevents accidental dislodgement.\n\nSkin monitoring prevents pressure injuries and irritation.\n\nFlushing as ordered maintains patency.\n\n❌ Incorrect Actions:\n\nEnsure the suction is on a high continuous setting\n\nNG tubes are typically placed on low intermittent suction, not high continuous, to avoid gastric mucosal damage.\n\nTurn on suction when auscultating bowel peristalsis\n\nSuction should be off when assessing bowel sounds because it interferes with hearing bowel activity.",
+        "id" : "0E116AE4-5989-42F3-B529-06FF6DE63161",
+        "options" : [
+          "Ensure the suction is on a high continuous setting",
+          "Assess for proper placement of the tube before medication administration",
+          "Secure the NG tube to the client’s nose",
+          "Monitor the client’s skin around the tube site for irritation",
+          "Flush the NG tube with lukewarm water as ordered",
+          "Turn on suction when auscultating bowel peristalsis"
+        ],
+        "text" : "A nurse cares for a client who has a nasogastric (NG) tube. Which actions would the nurse take?Select all that apply."
+      },
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "The correct answer is:\n\nGrilled chicken breast with white rice\nRationale:\n\nDuring an acute diverticulitis episode, the bowel must rest. The diet should be:\n\nLow-fiber\n\nEasily digestible\n\nNon-irritating\n\nWhite rice + lean protein fits this perfectly.\n\nWhy the other options are incorrect:\n\nPork tenderloin with green peas\n❌ Green peas are high in fiber and should be avoided during acute episodes.\n\nSliced ham with green salad\n❌ Raw vegetables and salad greens are high fiber → avoid.\n\nTurkey sandwich with celery sticks\n❌ Celery is high fiber and irritating; sandwich bread may also be too much bulk initially.",
+        "id" : "A1AEFF23-6BCC-47A2-8B18-3E9517DE5C7E",
+        "options" : [
+          "Pork tenderloin with green peas",
+          "Sliced ham with green salad",
+          "Turkey sandwich with celery sticks",
+          "Grilled chicken breast with white rice"
+        ],
+        "text" : "A nurse is providing diet education for a client with an acute diverticulitis episode. Which menu selection would the nurse include in the plan?"
+      },
+      {
+        "correctIndices" : [
+          0
+        ],
+        "explanation" : "",
+        "id" : "1C36D89A-6049-4268-927A-EC3609DDE8E8",
+        "options" : [
+          "“To cleanse the bowel to promote clear visualization of structures”",
+          "“To eliminate gas",
+          "“To decrease pain associated with fecal matter",
+          "“To allow ease of passage…”"
+        ],
+        "text" : "The nurse is instructing a client prior to a colonoscopy. The client states, “Why do I have to drink this disgusting liquid?” The nurse is most correct to verbalize the goal of the oral preparation as which of the following?"
+      },
+      {
+        "correctIndices" : [
+          5,
+          2,
+          4
+        ],
+        "explanation" : "The findings consistent with an upper gastrointestinal bleed are:\n\n✅ Correct (Select all that apply):\n\nHematemesis\n\nBP 92\/50\n\nHR 114\n\nRationale:\n\nHematemesis\n\nVomiting blood is a hallmark sign of upper GI bleeding.\n\nBP 92\/50\n\nHypotension indicates possible hypovolemic shock from blood loss.\n\nHR 114\n\nTachycardia is an early compensatory response to blood loss.\n\n❌ Incorrect:\n\nIntussusception\n\nThis is a bowel obstruction, not related to upper GI bleeding.\n\nHematochezia\n\nBright red blood in stool = lower GI bleeding, not upper.\n\nHematocrit 40\n\nNormal value; does not indicate acute bleeding (Hct drops later).",
+        "id" : "9B793AFA-2E31-446C-8194-BEDB07BD8466",
+        "options" : [
+          "Intussusception",
+          "Hematochezia",
+          "Hematemesis",
+          "Hematocrit 40",
+          "BP 92\/50",
+          "HR 114"
+        ],
+        "text" : "The client has a nasogastric tube inserted for a suspected upper gastrointestinal bleed. Which findings are consistent with this condition? Select all that apply."
+      },
+      {
+        "correctIndices" : [
+          0
+        ],
+        "explanation" : "The correct answer is:\n\nCalcium gluconate\nRationale:\n\nIf the parathyroid glands are removed during a thyroidectomy, the client can develop acute hypocalcemia, because PTH (parathyroid hormone) is needed to maintain calcium levels.\n\nCalcium gluconate is the emergency medication used to:\n\nTreat tetany\n\nCorrect severe hypocalcemia\n\nPrevent complications such as laryngospasm or seizures\n\nWhy the other options are incorrect:\n\nInsulin\n– Used for hyperkalemia or diabetes, not hypocalcemia.\n\nNaloxone\n– Reversal agent for opioids, unrelated.\n\nSodium polystyrene\n– Used to treat hyperkalemia, not low calcium.",
+        "id" : "B035C459-05E0-43C4-A4FD-270339E652CB",
+        "options" : [
+          "Calcium gluconate",
+          "Insulin",
+          "Naloxone",
+          "Sodium polystyrene"
+        ],
+        "text" : "The provider was unable to save a client’s parathyroid gland during a thyroidectomy. Which medication should the nurse have available for potential complications resulting from parathyroid removal?"
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "The correct answer is:\n\n“Avoid aspirin and products that contain aspirin.”\nRationale:\n\nA client with a peptic ulcer should avoid anything that increases gastric irritation or bleeding risk. Aspirin and NSAIDs:\n\nDamage the gastric mucosa\n\nIncrease acid secretion\n\nCan cause ulcer bleeding or perforation\n\nAvoiding these medications is a key part of discharge teaching.\n\nWhy the other options are incorrect:\n\n“Eat three balanced meals every day.”\n❌ Peptic ulcer patients typically benefit from small, frequent meals, not large ones.\n\n“Stop taking the drugs when your symptoms subside.”\n❌ Medications (famotidine, antacids) must be taken as prescribed, even if symptoms improve.\n\n“Increase your intake of fluids containing caffeine.”\n❌ Caffeine increases acid secretion and should be avoided.",
+        "id" : "5493378A-F39D-4025-8B97-A9E647D8C3D9",
+        "options" : [
+          "“Eat three balanced meals every day.”",
+          "“Stop taking the drugs when your symptoms subside.”",
+          "“Avoid aspirin and products that contain aspirin.”",
+          "“Increase your intake of fluids containing caffeine.”"
+        ],
+        "text" : "A client with a peptic ulcer is about to begin a therapeutic regimen that includes a bland diet, antacids, and famotidine. Before the client is discharged, the nurse should provide which instruction?"
+      },
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "",
+        "id" : "9C31E185-938E-4BF3-AA2B-86A3506D76BA",
+        "options" : [
+          "Administer bedpan for frequent diarrhea",
+          "Administer oral liquids in limited amounts during the postoperative period",
+          "Limit ambulation for 1 to 2 days postoperatively",
+          "Administer nasogastric suction until surgical incision heals"
+        ],
+        "text" : "A severely obese client has undergone Roux-en-Y gastric bypass surgery. When which interventions will the nurse plan post-operatively?"
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "The finding that requires Rapid Response is:\n\nStridor\nRationale:\n\nStridor = airway obstruction, which is a life-threatening emergency after a total thyroidectomy.\nIt can indicate:\n\nTracheal compression from a hematoma\n\nSevere laryngeal edema\n\nAirway collapse\n\nThis requires immediate intervention to prevent respiratory arrest.\n\nWhy the other options are not Rapid-Response urgent:\n\nHoarseness\n– Expected from laryngeal nerve irritation; monitor, not an emergency.\n\nBradycardia\n– Not typical and requires assessment, but not a Rapid Response unless severe or symptomatic.\n\nHypocalcemia\n– Common after parathyroid removal; treat urgently but does not require Rapid Response unless causing tetany with airway involvement.",
+        "id" : "19E0A1F1-CE21-4534-B9F2-AC5D7E904A0B",
+        "options" : [
+          "Hoarseness",
+          "Bradycardia",
+          "Stridor",
+          "Hypocalcemia"
+        ],
+        "text" : "The nurse is caring for a client who underwent a total thyroidectomy. Which assessment finding would lead the nurse to notify the rapid response team?"
+      },
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "The client the nurse should assess first is:\n\nGERD client with bilateral wheezes\nRationale:\n\nBilateral wheezes in a client with GERD may indicate:\n\nAspiration of gastric contents\n\nRespiratory compromise\n\nAirway inflammation or bronchospasm\n\nAny sign of impaired airway or breathing takes priority using ABCs.\n\nWhy the others are not first:\n\nPost-op client with pain 4\/10\n– Pain is important but not life-threatening.\n\nLower esophageal dysfunction with regurgitation\n– Expected symptom of the condition; not an emergency.\n\nPUD client awaiting endoscopy\n– Stable and waiting for a scheduled procedure; not urgent.",
+        "id" : "D47393CC-0D7F-4A57-8325-5304552B73DF",
+        "options" : [
+          "Post-op client with pain 4\/10",
+          "Lower esophageal dysfunction with regurgitation",
+          "PUD client awaiting endoscopy",
+          "GERD client with bilateral wheezes"
+        ],
+        "text" : "The nurse is receiving report on a medical-surgical unit. Which client should the nurse assess first?"
+      },
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "",
+        "id" : "76F0D185-88D3-477C-9EB4-C62DBEE1550E",
+        "options" : [
+          "Administer aspirin for hyperthermia",
+          "Provide a quiet, low-stimulus environment.",
+          "Observe for hypocalcemia",
+          "Keep client NPO"
+        ],
+        "text" : "A nurse is assessing a client who is admitted with hyperthyroidism. The client reports weight loss, increased appetite, fatigue, restlessness, etc. Which action would the nurse take to prevent a thyroid crisis?"
+      },
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "",
+        "id" : "669F7B89-B1BE-42DC-B3A4-33C349EE24A1",
+        "options" : [
+          "Client A",
+          "Client B",
+          "Client C",
+          "Client D"
+        ],
+        "text" : "Which laboratory finding is characteristic of a client with hypothyroidism?\n\nNormal Lab Ranges:\nTSH: 0.3–5.0 mcu\/mL\nT4: 4–12 mcg\/dL\nT3: 70–205 ng\/dL"
+      },
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "The correct answer is:\n\nChecking for the presence of bowel sounds in all 4 quadrants\nRationale:\n\nBefore removing an NG tube that was placed for intestinal obstruction, the priority is to confirm that:\n\nBowel function has returned\n\nPeristalsis is active\n\nThe obstruction has resolved enough to tolerate oral intake\n\nThe best indicator of return of bowel function is audible bowel sounds in all quadrants.\n\nWhy the other options are incorrect:\n\nChecking for proper NG tube placement\n– Important while the tube is in use, but not needed before removal.\n\nChecking pH of aspirate\n– Used to confirm placement, not to determine readiness for removal.\n\nChecking serum electrolyte levels\n– Relevant to overall condition, but not the priority assessment specific to NG tube removal.",
+        "id" : "D012B805-449B-4C70-A9B6-82574D3B7F4C",
+        "options" : [
+          "Checking for proper NG tube placement",
+          "Checking pH of aspirate",
+          "Checking serum electrolyte levels",
+          "Checking for the presence of bowel sounds in all 4 quadrants"
+        ],
+        "text" : "The nurse is caring for a client with a resolved intestinal obstruction who has a nasogastric tube in place. The provider has prescribed removal of the NG tube. What is the priority nursing assessment before removing the tube?"
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "The correct answer is:\n\nNotify the provider\nRationale:\n\nSudden, severe upper abdominal pain in a client with a GI bleed may indicate:\n\nPerforation\n\nPeritonitis\n\nWorsening hemorrhage\n\nThese are life-threatening emergencies that require immediate medical intervention, often surgical.\n\nThe nurse should notify the provider immediately to initiate urgent diagnostics and treatment.\n\nWhy the other options are incorrect:\n\nPrepare the client for an appendectomy\n❌ Appendicitis causes RLQ pain, not upper abdominal pain.\n\nObtain an order for a sigmoidoscopy\n❌ A sigmoidoscopy is not appropriate for suspected perforation; it could worsen the condition.\n\nAdminister pain medication\n❌ Pain meds might mask symptoms and should not be given before evaluation when perforation is suspected.",
+        "id" : "56B34C22-1530-45DD-AD53-0A2EE8E4ABAD",
+        "options" : [
+          "Prepare the client for an appendectomy",
+          "Obtain an order for a sigmoidoscopy",
+          "Notify the provider",
+          "Administer pain medication"
+        ],
+        "text" : "A client with a gastrointestinal bleed complains of sudden, severe upper abdominal pain. What is the nurse’s next action?"
+      },
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "The correct answer is:\n\nLactated Ringer’s 100 mL\/hr\nRationale:\n\nA client with diverticulitis and a small perforation is at risk for:\n\nFluid shifts\n\nThird spacing\n\nSepsis\n\nHypovolemia\n\nBecause the client is NPO, the nurse should anticipate an IV fluid that:\n\nReplaces electrolytes\n\nRestores volume\n\nMaintains perfusion\n\nLactated Ringer’s is the ideal choice because it is an isotonic, balanced crystalloid commonly used for:\n\nAbdominal infections\n\nVolume resuscitation\n\nSurgical or perforation cases\n\nSepsis support\n\nWhy the other options are incorrect:\n\n0.45% sodium chloride\n❌ Hypotonic — can worsen third spacing and is not used for initial resuscitation.\n\n5% dextrose in water (D5W)\n❌ Acts hypotonic after metabolism → not suitable for volume replacement.\n\n3% sodium chloride\n❌ Hypertonic — used for severe hyponatremia, not for perforation or infection.",
+        "id" : "82213BEA-D4F9-48C3-ABFB-E651861F31A9",
+        "options" : [
+          "0.45% sodium chloride",
+          "Lactated Ringer’s 100 mL\/hr",
+          "5% dextrose in water (D5W)",
+          "3% sodium chloride"
+        ],
+        "text" : "A client is admitted with diverticulitis and a small perforation in the sigmoid colon. The client is NPO. What IV fluid order does the nurse anticipate?"
+      },
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "The correct action is:\n\nNotify the provider\nRationale:\n\nClear drainage from the nose after a transsphenoidal hypophysectomy could be cerebrospinal fluid (CSF) leak, which is a medical emergency due to the risk of:\n\nMeningitis\n\nIncreased intracranial pressure\n\nNeurological deterioration\n\nAlthough checking the drainage for glucose is sometimes discussed, the priority is to notify the provider immediately because:\n\nA CSF leak requires urgent medical or surgical intervention\n\nDelaying care increases the risk of infection and complications\n\nWhy the other options are incorrect:\n\nDocument the amount\n❌ Not appropriate when a potentially life-threatening complication is present.\n\nCheck the drainage for glucose\n❌ This was historically done, but it delays intervention. Clear nasal drainage after this surgery should be treated as CSF until proven otherwise.\n\nObtain a culture\n❌ Not appropriate at this time and delays urgent evaluation.",
+        "id" : "71B3B82F-5854-4635-9FEE-9365C3744194",
+        "options" : [
+          "Document the amount",
+          "Notify the provider",
+          "Check the drainage for glucose",
+          "Obtain a culture"
+        ],
+        "text" : "A nurse is caring for a client 1 day postoperative following a transsphenoidal hypophysectomy. The nurse notes a large area of clear drainage seeping from the nasal packing. What is the most appropriate action?"
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "The correct priority intervention is:\n\nTrend the client’s blood pressure and heart rate\nRationale:\n\nA client with a suspected lower GI bleed and large amounts of frank red blood is at high risk for hypovolemic shock.\n\nThe first priority is to assess for hemodynamic instability:\n\nFalling blood pressure\n\nRising heart rate\n\nSigns of shock\n\nThese trends guide immediate interventions such as IV fluids, type & crossmatch, and possible transfusion.\n\nWhy the other options are not priority:\n\nCheck H&H daily\n❌ Too infrequent. In GI bleeding, H&H may need to be checked every 4–6 hours or more often.\n\nMonitor BUN\/creatinine\n❌ Important but not the first priority—hemodynamic stability (ABCs) comes first.\n\nAuscultate bowel sounds\n❌ Not relevant to the acute emergency risk. Does not address bleeding or shock.",
+        "id" : "13C4EB1D-A3EC-4D98-B9F7-0D9F17B8136D",
+        "options" : [
+          "Check H&H daily",
+          "Monitor BUN\/creatinine",
+          "Trend the client blood pressure and heart rate",
+          "Auscultate bowel sounds"
+        ],
+        "text" : "A nurse is caring for a newly admitted client with a suspected lower gastrointestinal bleed due to several bowel movements with large amounts of frank, red blood in stool. What is the priority nursing intervention?"
+      },
+      {
+        "correctIndices" : [
+          0
+        ],
+        "explanation" : "The correct answer is:\n\n“The NGT will decompress my stomach.”\nRationale:\n\nFor a small bowel obstruction, the purpose of an NG tube is to:\n\nDecompress the stomach\n\nRemove gastric contents\n\nRelieve vomiting, distention, and pressure\n\nPrevent aspiration\n\nThis shows correct understanding of the treatment.\n\nWhy the other options are incorrect:\n\n“The pH of gastric secretions will be checked by the NGT.”\n❌ Checking pH is part of placement verification, not the purpose of the tube.\n\n“The NGT will supply nutrients via tube feedings.”\n❌ Clients with SBO are NPO; feeding is NOT appropriate.\n\n“My medications will be administered by the NGT.”\n❌ Medications should not be given because of the obstruction and vomiting risk.",
+        "id" : "325C5FF2-031B-4CCF-8494-A19A067F5A07",
+        "options" : [
+          "The NGT will decompress my stomach.",
+          "The pH of gastric secretions will be checked by the NGT.",
+          "The NGT will supply nutrients via tube feedings.",
+          "My medications will be administered by the NGT."
+        ],
+        "text" : "A nurse is teaching a client who has a prescription for a nasogastric tube (NGT) to treat a small bowel obstruction. Which client statement indicates teaching has been successful?"
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "To find the IV pump rate in mL\/hr for Famotidine 20 mg in 50 mL infused over 45 minutes:\n1. Infusion time in hours: 45 minutes ÷ 60 minutes\/hr = 0.75 hr\n2. Pump rate: 50 mL ÷ 0.75 hr = 66.67 mL\/hr\n3. Round to nearest tenth: 66.67 = 66.7 mL\/hr\nAnswer: 66.7 mL\/hr",
+        "id" : "82EA5085-12C0-448B-A0AE-A8D497CA8142",
+        "options" : [
+          "0.75",
+          "45.3",
+          "66.7",
+          "35.33"
+        ],
+        "text" : "Famotidine 20 mg is ordered to infuse over 45 minutes.\n\nYou need to find the IV pump rate in mL\/hr.\n\nThe bag label shows Famotidine 20 mg in 50 mL.\n\nRound to the nearest tenth"
+      },
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "1. Weight: 245 lbs ÷ 2.2 = 111.36 kg\n2. Daily dose: 1.5 mg\/kg x 111.36 kg = 167.04 mg\n3. Per dose: 167.04 mg ÷ 2 = 83.52 mg\n4. mL per dose: 83.52 mg ÷ (90 mg \/ 0.9 mL) = 0.84 mL\n\nAnswer: 0.84 mL per dose",
+        "id" : "E2ED0F1C-9EEF-4E93-8A98-4D342ED70AFB",
+        "options" : [
+          "0.93",
+          "0.84",
+          "0.99",
+          "0.93"
+        ],
+        "text" : "Enoxaparin dose = 1.5 mg\/kg\/day, divided into 2 doses (every 12 hours)Client weight = 245 lbsSupply = 90 mg \/ 0.9 mL.Goal: How many mL per dose?"
+      },
+      {
+        "correctIndices" : [
+          0
+        ],
+        "explanation" : "The correct answer is:\n\nStop the transfusion immediately.\nRationale:\n\nThe client is showing signs of a severe transfusion reaction, possibly:\n\nAnaphylaxis\n\nAcute hemolytic reaction\n\nThese are life-threatening and require immediate discontinuation of the blood to prevent further exposure to the causative agent.\n\nStopping the transfusion is always the first priority before any other interventions.\n\nWhy the other options are not the priority:\n\nAdminister a prescribed antihistamine\n❌ Medications are given after the transfusion is stopped.\n\nElevate the head of the bed and apply oxygen\n❌ Supportive measures are important but come after stopping the transfusion.\n\nNotify the healthcare provider\n❌ MUST be done, but after stopping the transfusion.",
+        "id" : "2F81396A-31FB-41D9-9276-67B695F2B2B3",
+        "options" : [
+          "Stop the transfusion immediately.",
+          "Administer a prescribed antihistamine.",
+          "Elevate the head of the bed and apply oxygen.",
+          "Notify the healthcare provider."
+        ],
+        "text" : "A nurse is administering a blood transfusion to a patient. Fifteen minutes into the transfusion, the patient reports shortness of breath (SOB), exhibits wheezing, and their blood pressure drops to 76\/52 mmHg. What is the nurse's priority intervention?"
+      },
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "The correct answer is:\n\nTake an electrocardiogram and have lidocaine available.\nRationale:\n\nA potassium level of 6.4 mEq\/L = severe hyperkalemia, which can cause life-threatening cardiac dysrhythmias.\n\nPRIORITY = Cardiac monitoring (ECG).\nAn ECG will identify dangerous rhythms such as:\n\nPeaked T waves\n\nWidened QRS\n\nVentricular dysrhythmias\n\nHeart block\n\nHaving antiarrhythmic medications (such as lidocaine) or other emergency drugs immediately available is essential until definitive treatment begins (e.g., calcium gluconate, insulin\/dextrose, sodium bicarbonate, or dialysis).\n\nWhy the other options are incorrect:\n\nAdminister a potassium-wasting diuretic\n– Helpful later but not the first priority during a potentially lethal electrolyte imbalance.\n\nEncourage potassium-rich foods\n– Contraindicated; would worsen hyperkalemia.\n\nPrepare to administer IV fluids rapidly\n– Not the priority and may not treat hyperkalemia.",
+        "id" : "0F34C9CE-1E30-4018-83C2-6B1298C98DBA",
+        "options" : [
+          "Administer a potassium-wasting diuretic.",
+          "Encourage the patient to consume potassium-rich foods.",
+          "Prepare to administer intravenous fluids rapidly.",
+          "Take an electrocardiogram and have lidocaine available"
+        ],
+        "text" : "A nurse reviews a patient's laboratory results and notes a potassium level (K⁺) of 6.4 mEq\/L. Which of the following is the nurse's priority action?"
+      },
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "The correct answer is:\n\nTell the patient that he or she might have constipation.\nRationale:\n\nOral iron supplements commonly cause:\n\nConstipation\n\nDark, tarry stools (EXPECTED)\n\nGI upset\n\nPatients should be taught to:\n\nIncrease fluids\n\nIncrease fiber\n\nUse a stool softener if needed\n\nConstipation is a normal and expected side effect.\n\nWhy the other options are incorrect:\n\n“You should expect your urine to turn orange.”\n❌ That happens with phenazopyridine, not iron.\n\n“Report any changes in your stool color immediately…”\n❌ Iron normally darkens stools; this is expected, not concerning.\n\n“Take a laxative daily to prevent diarrhea.”\n❌ Iron causes constipation, not diarrhea; routine laxative use is not advised.",
+        "id" : "67EE56C8-DEA7-49F6-9D07-D72E6B712FEE",
+        "options" : [
+          "\"You should expect your urine to turn orange.\"",
+          "\"Report any changes in your stool color immediately, as it indicates a problem.\"",
+          "\"Take a laxative daily to prevent diarrhea.\"",
+          "Tell the patient that he or she might have constipation"
+        ],
+        "text" : "A nurse is providing discharge teaching to a patient who will be taking an oral iron preparation. Which of the following instructions should the nurse include?"
+      },
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "The correct answer is:\n\nStimulate red blood cell production\nRationale:\n\nClients with chronic kidney disease (CKD) often develop anemia because damaged kidneys cannot produce enough erythropoietin, the hormone that stimulates the bone marrow to make RBCs.\n\nEpoetin alfa (Epogen) is a synthetic form of erythropoietin used to:\n\nIncrease red blood cell production\n\nImprove hemoglobin and hematocrit\n\nReduce fatigue related to anemia\n\nWhy the other options are incorrect:\n\nDecrease inflammation\n❌ Not an anti-inflammatory drug.\n\nImprove white blood cell count\n❌ Does not affect WBCs.\n\nReduce blood pressure\n❌ Epogen may actually increase blood pressure as a side effect.",
+        "id" : "7D5F40F4-1C28-4CA9-B870-281A2F2D085A",
+        "options" : [
+          "Decrease inflammation",
+          "Improve white blood cell count",
+          "Stimulate red blood cell production",
+          "Reduce blood pressure"
+        ],
+        "text" : "A nurse is reviewing the medication administration record for a patient with chronic kidney disease. The nurse notes the patient is prescribed epoetin alfa (Epogen). What is the expected therapeutic outcome of this medication?"
+      },
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "The correct answer is:\n\n“Because bleeding is a common and expected side effect of all medications in this category.”\nRationale:\n\nLow-dose aspirin is an antiplatelet medication, meaning it prevents platelets from clumping together. This helps reduce the risk of heart attack and stroke—but it also increases the risk of bleeding.\n\nBecause aspirin interferes with platelet function, patients must report unusual bleeding or bruising immediately, as it may signal:\n\nGI bleeding\n\nInternal bleeding\n\nExcessive platelet inhibition\n\nThis is the actual reason monitoring is essential.\n\nWhy the other options are incorrect:\n\nA & C — “Because aspirin can cause an allergic reaction.”\n❌ Allergies are possible, but not the reason patients must report bleeding.\nThese answers do not address the antiplatelet effect.\n\nD — “Because it might indicate your dose is too low.”\n❌ Bleeding means the dose is too strong, not too weak.",
+        "id" : "2C9962B3-8BC3-451D-BC98-6458CE261B8A",
+        "options" : [
+          "\"Because aspirin can cause an allergic reaction\"",
+          "\"Because bleeding is a common and expected side effect of all medications in this category.\"",
+          "\"Because aspirin can sometimes cause an allergic reaction.\"",
+          "\"Because it might indicate that your aspirin dose is too low and isn't working effectively.\""
+        ],
+        "text" : "A nurse is providing discharge education to a patient newly prescribed daily low-dose aspirin. The nurse instructs the patient to report any unusual bleeding or bruising immediately. The patient asks, \"Why is that important?\" Which of the following is the most appropriate response by the nurse?"
+      },
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "The correct answer is:\n\nEvery 5 minutes, up to 3 tablets\nRationale:\n\nFor acute angina, the standard sublingual nitroglycerin protocol is:\n\n1 tablet every 5 minutes\n\nUp to 3 doses\n\nIf pain persists after the first dose, the patient should call 911 before taking the second dose.\n\nNitroglycerin works quickly to dilate coronary arteries and reduce chest pain. If it doesn’t work by the third dose, it may indicate an MI (heart attack).\n\nWhy the other options are incorrect:\n\n“Every 15 minutes as needed”\n❌ Too long—patient could deteriorate before relief.\n\n“You can take up to two tablets at once”\n❌ Dangerous. Doses must be spaced 5 minutes apart.\n\n“Wait at least 30 minutes between doses”\n❌ Too long and unsafe in an angina episode.",
+        "id" : "DEC7CFD7-26C4-4D5B-911A-7C0D5E4EDD71",
+        "options" : [
+          "\"You can take one tablet every 15 minutes as needed.\"",
+          "“Every 5 minutes, up to 3 tablets”",
+          "\"You can take up to two tablets at once if your pain is severe.\"",
+          "\"You should wait at least 30 minutes between each dose.\""
+        ],
+        "text" : "How often can a patient take sublingual nitroglycerin for pain relief?"
+      },
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "To find the pump rate in mL\/hr:\n• Concentration: 125 units in 250 mL = 0.5 units\/mL.\n• Dose: 12 units\/hr.\n• Rate: 12 units\/hr ÷ 0.5 units\/mL = 24 mL\/hr.\nPump setting: 24 mL\/hr.",
+        "id" : "55601A51-B706-4948-A792-D493110EDE07",
+        "options" : [
+          "23",
+          "24",
+          "24.30",
+          "25"
+        ],
+        "text" : "Order: Infuse regular insulin at 12 units\/hour\nConcentration: 125 units in 250 mL\nWhat rate (in mL\/hr) should the pump be set to?"
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "Step 1: Find weight loss\n176.3 - 170.1 = 6.2 lbs\nStep 2: Convert pounds to liters\n1 liter of fluid ≥ 2.2 lbs\n6.2 ÷ 2.2 = 2.818 →\n2.8 L\nFinal Answer:\n2.8 L",
+        "id" : "485E7030-1403-49D4-A29F-BCB30044E153",
+        "options" : [
+          "1.63",
+          "3.8",
+          "2.8",
+          "2.11"
+        ],
+        "text" : "A client weighs 176.3 lbs before dialysis and 170.1 lbs after. How many liters of fluid were removed?"
+      }
+    ],
+    "title" : "NUR 304 EXAM 4"
+  },
+  {
+    "id" : "F5A66186-9765-4817-8670-5E91F0D49B7C",
+    "questions" : [
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "Early decelerations are not indicative of increased fetal intracranial pressure. They are characterized by a gradual decrease in fetal heart rate (FHR) that mirrors the contraction, with the nadir of the deceleration occurring at the peak of the contraction. This pattern is considered benign and is caused by fetal head compression during a uterine contraction, which stimulates the vagus nerve and results in a transient, brief decrease in FHR.\n\nThe term \"present decelerations\" is not a recognized classification for fetal heart rate patterns. Fetal heart rate (FHR) decelerations are categorized as early, late, or variable, each corresponding to a different underlying physiological cause. Passage through the cervix is a mechanical process; while it causes head compression, the resulting FHR change is the early deceleration pattern.\n\nThe term \"absent deceleration\" is not a specific fetal heart rate pattern. A baseline fetal heart rate that remains within the normal range of 110 to 160 beats per minute (bpm) with no periodic changes (decelerations or accelerations) is a normal finding. Fetal movement is primarily assessed by accelerations in the FHR, which are increases of at least 15 bpm lasting 15 seconds or more.\n\nVariable decelerations are characterized by an abrupt decrease in FHR, often V or W-shaped, varying in duration and depth, and not consistently related to uterine contractions. They are the most common pattern in the second stage and indicate a transient occlusion of the umbilical cord, leading to a temporary decrease in umbilical blood flow and thus fetal oxygenation.",
+        "id" : "4CA2C12D-2495-475B-B31D-1615A9577F2E",
+        "options" : [
+          "Early deceleration indicative of fetal increased intracranial pressure.",
+          "Present decelerations indicative of passage through the cervix.",
+          "Absent deceleration indicative of good fetal movement.",
+          "Variable deceleration indicative of umbilical cord compression."
+        ],
+        "text" : "A 39 week and 2 day client is currently in the second stage of labor. The nurse is explaining to the client and support partner what is seen on the external fetal monito.What deceleration pattern is a normal finding in the second stage of labor."
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "Oxytocin is an uterotonic agent used to induce or augment labor or to prevent\/control postpartum hemorrhage; it has no role in correcting hypotension caused by a neuraxial block, such as an epidural. The hypotension is due to sympathetic blockade causing peripheral vasodilation and subsequent venous pooling, decreasing venous return and cardiac output.\n\nWhile oxygen administration may be part of the treatment for fetal distress secondary to maternal hypotension, administering it at 6 liters via face mask is not the priority action. The immediate priority is to restore maternal blood pressure to ensure adequate placental perfusion and oxygen delivery to the fetus by increasing preload.\n\nTurning the client to the lateral position (left side preferred) displaces the uterus off the vena cava, alleviating aortocaval compression and improving venous return to the heart. Increasing intravenous fluids (a rapid bolus) expands the intravascular volume, which increases preload and helps counteract the vasodilation, thereby restoring blood pressure to the normal range of 90\/60 to 140\/90 mmHg.\n\nRaising the head of the bed would worsen the hypotension because it promotes gravitational pooling of blood in the lower extremities, further decreasing venous return to the heart and exacerbating the drop in cardiac output. The preferred position is lateral (side-lying) or a slight Trendelenburg (feet higher than head) to promote blood return",
+        "id" : "5022D708-65B8-4BB9-AECE-73AC52E6E4BB",
+        "options" : [
+          "Administer Oxytocin.",
+          "Administer 6 liters of Oxygen via face mask.",
+          "Turn client on their left side and increase intravenous fluids.",
+          "Raise the head of the bed and elevate the patient's legs."
+        ],
+        "text" : "mmediately following an epidural block, a client's blood pressure falls to 90\/50. Which priority action would the nurse take."
+      },
+      {
+        "correctIndices" : [
+          0
+        ],
+        "explanation" : "",
+        "id" : "3221CA57-22AB-4E7B-9AFC-4EE578487339",
+        "options" : [
+          "What is the desired outcome for the client.",
+          "Firmly contracted uterine fundus.",
+          "Efficient fetal heart beat variability.",
+          "Absence of discomfort.",
+          "Maternal respiratory rate within expected range."
+        ],
+        "text" : "The nurse is creating a care plan for an intrapartum client at the end of the third stage of labor."
+      },
+      {
+        "correctIndices" : [
+          4,
+          1,
+          5
+        ],
+        "explanation" : "",
+        "id" : "AB82628F-1BD7-4D2C-B389-00BF238DAC87",
+        "options" : [
+          "Abdominal enlargement.",
+          "Breast changes.",
+          "Positive urine pregnancy test.",
+          "Goodell sign.",
+          "Amenorrhea.",
+          "Urinary frequency."
+        ],
+        "text" : "What are presumptive signs of pregnancy that the nurse would expect when assessing a client at 10 weeks gestation.Select all that apply."
+      },
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "",
+        "id" : "67E90A6D-0EEB-4D88-8641-961B2FAD0A7B",
+        "options" : [
+          "Assessing the characteristics of the amniotic fluid.",
+          "Monitoring the client for signs of infection.",
+          "Inspecting the perineum for bloody discharge.",
+          "Checking the fetal heart rate."
+        ],
+        "text" : "An amniotomy is performed on a laboring client at 42 weeks' gestation.What priority intervention should the nurse perform."
+      },
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "This option accurately describes the FHR strip. The baseline is 130–140 bpm (normal range: 110–160 bpm). Moderate variability (amplitude 6–25 bpm) is present, indicating a well-oxygenated fetus with intact neurological function. No accelerations or decelerations are observed, confirming a Category I (normal) FHR tracing..",
+        "id" : "B264785F-B1D7-4F26-9DE5-867260C7E3B5",
+        "options" : [
+          "Normal baseline, Absent variability, Present accelerations, Variable decelerations.",
+          "Normal baseline, Present variability, Absent accelerations and Absent decelerations.",
+          "Normal baseline, Minimal variability, Absent accelerations, and Absent decelerations.",
+          "Normal baseline, Moderate variability, Present accelerations, Early decelerations."
+        ],
+        "text" : "A 38 week primipara client comes into the clinic for a cervical check and an external monitor is placed on the client's abdomen.Based on the following strip how would the nurse document the fetal heart rate."
+      },
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "Hegar's sign is a probable sign of pregnancy. It is the softening of the lower uterine segment or isthmus, typically occurring about 6-12 weeks gestation due to increased vascularity and fluid accumulation. Probable signs are objective, detectable by a provider, but can be caused by conditions other than pregnancy, making them less definitive than positive signs.\n\nQuickening is the mother's first perception of fetal movement, usually felt between 16-20 weeks gestation. This is considered a presumptive sign of pregnancy. Presumptive signs are the subjective changes experienced and reported by the woman, suggesting pregnancy, but they can be attributed to many other conditions (e.g., gas, peristalsis), hence they are the least reliable indicators.\n\nChadwick sign is a probable sign of pregnancy. It is the deep, dusky-blue coloration of the vaginal and cervical mucosa due to increased blood flow (hyperemia) and vascularity, often observable from 6-8 weeks gestation. Probable signs are objective changes noted by a provider but are not absolutely specific to pregnancy, as other conditions could cause pelvic vascular congestion.\n\nA Positive pregnancy test (urine or serum) is considered a probable sign of pregnancy. These tests detect the presence of Human Chorionic Gonadotropin (hCG). While highly reliable, conditions like hydatidiform mole or certain medications can cause a false positive result, preventing it from being a definitive positive sign, which only includes visualization of the fetus, fetal heart tones, or palpation of fetal movement by an examiner.",
+        "id" : "CBA3E00B-775B-4C69-A3F3-8CD0C3144A76",
+        "options" : [
+          "Hegar's sign.",
+          "Quickening.",
+          "Chadwick sign.",
+          "Positive pregnancy test."
+        ],
+        "text" : "A client who believes they are pregnant is informing the nurse of their pregnancy signs and symptoms.Which assessment finding would the nurse determine is a presumptive sign of pregnancy?"
+      },
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "Epidural anesthesia is a highly effective pharmacologic pain management option for labor, but it is typically offered later in the active phase of labor or upon request. At 3 cm dilation, the client is in the early (latent) phase of the first stage of labor. While the client can receive it, the initial nursing priority is often to promote comfort and coping with non-pharmacologic measures before resorting to invasive procedures.\n\nThe client is in the early (latent) phase of the first stage of labor, defined as 0-5 cm cervical dilation and 0-40% effacement. This phase is characterized by milder, less frequent contractions, and the client is typically alert and excited. The nursing priority is to encourage non-pharmacologic coping strategies like ambulation, hydrotherapy, breathing techniques, and position changes, which promote comfort, manage pain, and encourage labor progression before the active phase.\n\nNarcotic analgesia (opioids) can be used for pain relief in early labor, but they can cause fetal\/neonatal respiratory depression, maternal drowsiness, and potential nausea. Given the client is at 3 cm, this is the latent phase, and non-pharmacologic methods are typically encouraged first. Pharmacologic agents are often reserved for when non-pharmacologic methods are insufficient or the client enters the active phase (6 cm or more).\n\nA client in active labor, particularly one receiving analgesia, is at risk of aspiration should an emergency Cesarean section be required under general anesthesia. Therefore, generally, clients are kept NPO (nothing by mouth) except for small amounts of clear liquids or ice chips. Offering a full breakfast is contraindicated due to the risk of aspiration and is not a priority for comfort or labor management.",
+        "id" : "0359A8D4-E60D-45D0-8BFD-307BF3BA7F53",
+        "options" : [
+          "Offer the client the option to start epidural anesthesia.",
+          "Encourage use of non-pharmacologic alternative comfort measures.",
+          "Administer narcotic analgesia per standing orders.",
+          "Offer the client ice chips and breakfast."
+        ],
+        "text" : "A nurse is creating the plan of care for a client who is at 39 weeks of gestation and in labor.A vaginal exam reveals that the client's cervix is 3 cm dilated, 50"
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "",
+        "id" : "74581D70-40E7-4812-BAF7-CF0CEFEE2D2A",
+        "options" : [
+          "Maternal uterine contractions.",
+          "Fetal gestational age.",
+          "Fetal physical activity.",
+          "Maternal blood pressure."
+        ],
+        "text" : "A nurse is caring for a client during a nonstress test (NST). At the end of a 20-minute period of observation, the nurse noted the following findings: The fetal heart rate baseline is 120 beats per minute with no decelerations.There are two accelerations increasing the fetal heart rate by 15 beats above the baseline during a period of fetal movement, each lasting 20 seconds.What reason would the nurse provide to explain to the pregnant client a reactive test?"
+      },
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "",
+        "id" : "61CF1A86-1FFF-4F70-9154-69A0E1160717",
+        "options" : [
+          "Indeterminate.",
+          "Tachysystole.",
+          "Normal.",
+          "Bradycardia."
+        ],
+        "text" : "A 37-week client is stating she is having severe back pain and is placed on an external monitor. The monitor shows the following fetal and contraction tracing.How would the nurse document the client's contractions?"
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "",
+        "id" : "6332667C-2BBE-4FA7-9B77-A73E0C61BD06",
+        "options" : [
+          "Administering an intravenous analgesic to the client.",
+          "Positioning the client with pressure on the perineum.",
+          "Applying ice packs to the perineum.",
+          "Spraying the perineum with a local anesthetic."
+        ],
+        "text" : "A postpartum client required an extensive episiotomy because her newborn had macrosomia.Which nursing intervention will minimize edema and lessen discomfort associated with the episiotomy?"
+      },
+      {
+        "correctIndices" : [
+          0
+        ],
+        "explanation" : "",
+        "id" : "46E758C7-AED5-4997-B5A2-6D364CD84C61",
+        "options" : [
+          "During pregnancy it's safe for me to use my regular herbal remedies.",
+          "My doctor will tell me if it's safe to take my allergy medications.",
+          "I'm only 10 weeks pregnant, so I should continue taking folic acid.",
+          "I should avoid all x-rays unless absolutely necessary and tell them I'm pregnant."
+        ],
+        "text" : "The nurse is teaching a group of clients in a prenatal education class.What statement by a pregnant client indicates the need for additional teaching?"
+      },
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "",
+        "id" : "73CDC06D-4808-402B-B558-ED761BCA18CF",
+        "options" : [
+          "Half sit-ups.",
+          "Pelvic tilt.",
+          "Pelvic rocking.",
+          "Kegel exercises."
+        ],
+        "text" : "The nurse is teaching a group of clients in a prenatal education class.Which of the following exercises would the nurse recommend for the client to perform?"
+      },
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "",
+        "id" : "05630D7D-B205-4D70-ABCE-04FF1E61589D",
+        "options" : [
+          "Decreased level of consciousness.",
+          "Hypothermia.",
+          "Hypertension.",
+          "Urinary retention."
+        ],
+        "text" : "A client is receiving an epidural anesthesia of Bupivacaine during labor.Which alteration would the nurse monitor for in the client?"
+      },
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "",
+        "id" : "B1C71EC6-3B35-4DCA-9ED9-F760671C3E74",
+        "options" : [
+          "Through a prolonged rupture of membranes.",
+          "In the postpartum period through infected droplets.",
+          "During birth as the fetus was expelled through the vaginal canal.",
+          "In utero through the placenta."
+        ],
+        "text" : "The nurse is giving report to a student about a newborn they suspect has toxoplasmosis.Which statement by the student on how and when the infection was transmitted to the newborn does not require further teaching?"
+      },
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "",
+        "id" : "A5E027C8-6183-4CF2-9DE5-8682DECDFB35",
+        "options" : [
+          "You have little to worry about regarding becoming pregnant in the near future, because of your illness.",
+          "You should use foam with a condom to prevent pregnancy; this is the safest method.",
+          "You may use oral hormonal contraceptives; they are very effective in preventing pregnancy.",
+          "The intrauterine device may be a good choice because of its high effectiveness and ease of use."
+        ],
+        "text" : "During the postpartum period, a client with heart disease and type 2 diabetes asks the nurse, \"Which contraceptive will I be able to use to prevent pregnancy in the near future?\". What is the best response by the nurse?"
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "",
+        "id" : "D54E8387-AEC3-4736-9B11-780C6832D2D4",
+        "options" : [
+          "Syphilis.",
+          "Chlamydia.",
+          "Genital herpes.",
+          "Human papillomavirus (HPV)."
+        ],
+        "text" : "A 20-year-old woman, who presents to the sexual health clinic, is concerned because approximately 7 days following intercourse with a new partner, several painful genital lesions appeared.Before the lesions appeared, she states that she had a \"cold\" and fever. She describes them as looking like a \"blister\" and notes that some have ruptured and crusted over.She is worried that her partner may have given her a sexually transmitted infection (STI) and is expressing feelings of anger.Based on the patient's presentation, which potential condition should the nurse suspect?"
+      },
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "",
+        "id" : "63453FF5-1103-40A0-A771-23102D6BC8E9",
+        "options" : [
+          "The use of an antidepressant medication.",
+          "The client's history of irregular menses.",
+          "The client's blood pressure of 108\/74 mmHg.",
+          "The client's current weight and BMI status."
+        ],
+        "text" : "A 20-year-old woman presents to the sexual health clinic. Her history includes trichomoniasis and irregular menses. Her last menstrual period began 4 days ago.She states that her periods are heavy and last between 2 and 9 days.She has an intrauterine device (IUD) in place for birth control, and she does not wish to change her current method of birth control.She is on an antidepressant.On arrival, her blood pressure is 108\/74 mmHg, pulse 75 bpm, respiratory rate 18 breaths\/min, and temperature 98.2°F (36.8°C). She is 5'7\" (170 cm) and weighs 190 pounds (86 kg) (BMI 29.75 kg\/m).The client is waiting to be evaluated by the healthcare provider, and the nurse is conducting a detailed health history. Which aspect of the client's history requires further investigation by the nurse?"
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "",
+        "id" : "9C8BC63F-B28A-4292-90A4-C0515DCB3E31",
+        "options" : [
+          "Move the client to the operating room for a cesarean.",
+          "Administer oxygen via face mask to the client.",
+          "Turn the client or ask the client to turn to their left side.",
+          "Increase the client's intravenous Lactated Ringer's."
+        ],
+        "text" : "The fetal monitor demonstrates a pattern that reflects uteroplacental insufficiency.What is the priority action by the labor nurse?"
+      },
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "",
+        "id" : "8ADD93AD-953E-4D6B-A617-F4202C07145D",
+        "options" : [
+          "Contractions occurring occasionally and lasting for 30 seconds every 2 minutes.",
+          "Fetal Heart Rate (FHR) 170 beats per minute (bpm) with a decrease from moderate to minimal variability.",
+          "FHR 140 bpm with minimal variability with late decelerations.",
+          "Contractions slowing with a fetal heart rate of 130 bpm and moderate variability."
+        ],
+        "text" : "The nurse is caring for a client with preterm labor whose provider orders tocolytic therapy.Which clinical findings indicate a desired outcome from tocolytic therapy?"
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "Correct Answer (mL\/hr) : 6\n\nSolution\n\nStep 1 is: Convert oxytocin units to milliunits in the IV bag. 10 units× 1000 mU\/unit = 10000 mU.\n\nStep 2 is: Calculate the concentration of oxytocin in the IV bag in mU\/mL. 10000 mU÷ 500 mL = 20 mU\/mL.\n\nStep 3 is: Calculate the milliliters per minute (mL\/min) needed for the initial dose of 2 mU\/min. 2 mU\/min÷ 20 mU\/mL = 0.1 mL\/min.\n\nStep 4 is: Convert the infusion rate from mL\/min to mL\/hr. 0.1 mL\/min× 60 min\/hr = 6 mL\/hr. The final calculated answer is 6 mL\/hr.",
+        "id" : "4EB6C4CF-DE65-49AE-805B-F16856AFE310",
+        "options" : [
+          "7",
+          "4",
+          "6",
+          "8"
+        ],
+        "text" : "The healthcare provider ordered 500 mL D5W with 10 units of oxytocin to begin at 2 mU\/min and then increase by 1 mU\/min every 30 minutes until regular uterine contractions begin.The maximum dose is 30 mU\/min. What is the infusion flow rate for the beginning infusion? Round to the nearest whole number."
+      },
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "",
+        "id" : "70B38490-1121-4D06-82C4-8B1E1E701D15",
+        "options" : [
+          "It measures maternal liver function.",
+          "It is a screening test for placental function.",
+          "It tests the ability of her heart to accommodate the pregnancy.",
+          "It is a screening test for neural tube defects."
+        ],
+        "text" : "A pregnant client asks the nurse the purpose of the maternal serum alpha-fetoprotein (MSAFP) test.How would the nurse respond?"
+      },
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "",
+        "id" : "4220FBB1-7DCF-4F39-8D03-6254E7A9AA9F",
+        "options" : [
+          "Bradycardia, Moderate variability, Present accelerations, Late decelerations.",
+          "Normal baseline, Moderate variability, Absent accelerations, Early decelerations.",
+          "Normal baseline, Minimal variability, Present accelerations, Early decelerations.",
+          "Normal baseline, Minimal variability, Absent accelerations, Late decelerations."
+        ],
+        "text" : "A 40 week primipara client is currently being monitored by external fetal monitoring.The monitor alerts for an ominous sign of fetal hypoxia.The nurse is assessing the strip. Based on the following strip, how would the nurse document the fetal heart rate?"
+      },
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "Step 1 is: Add 7 days to the first day of the last menstrual period (LMP). April 19 + 7 days = April 26.\n\nStep 2 is: Subtract 3 months from the month of the LMP. April (4th month) - 3 months = January (1st month).\n\nStep 3 is: Add 1 year to the year of the LMP. 2024 + 1 year = 2025.\n\nStep 4 is: Combine the new month, day, and year to determine the estimated date of delivery (EDD). The final calculated answer is 01\/26\/2025.",
+        "id" : "D8124CB2-CBBC-474E-A5BC-07E3D28B509B",
+        "options" : [
+          "01\/25\/2025",
+          "01\/26\/2025",
+          "01\/27\/2025",
+          "01\/24\/2025"
+        ],
+        "text" : "A client arrives to the prenatal clinic for their first prenatal assessment. They tell the nurse that the first day of their last menstrual period (LMP) was April 19, 2024.Using Naegele's rule, the nurse informs the client that their estimated date of delivery is which date? Please record answer as MM\/DD\/YYYY."
+      },
+      {
+        "correctIndices" : [
+          2,
+          0,
+          3
+        ],
+        "explanation" : "The insertion of any foreign object into the uterus, such as an intrauterine device (IUD), carries a risk of introducing pathogenic microorganisms, potentially leading to pelvic inflammatory disease (PID) or endometritis, particularly in the first few weeks after insertion. Strict aseptic technique is mandatory to minimize this transient risk, which stems from the passage of the device through the cervix.\n\nUterine perforation is a rare but serious complication, occurring most often at the time of insertion when the sound or the IUD itself punctures the uterine wall, which can lead to intra-abdominal placement or damage to adjacent organs. Risk factors include a recently postpartum or lactating uterus, which is softer and more pliable.\n\n\nAn intrauterine device prevents uterine implantation, but it does not prevent fertilization. If pregnancy occurs with an IUD in place, there is a significantly increased risk that the fertilized ovum will implant outside the uterus, most commonly in the fallopian tube, resulting in a potentially life-threatening ectopic pregnancy for the woman.",
+        "id" : "11B9BB18-DA10-4DB0-AD18-D794290D0585",
+        "options" : [
+          "Risk for infection during insertion.",
+          "Delay of return to fertility.",
+          "Ectopic pregnancy.",
+          "Risk for perforation of the uterus."
+        ],
+        "text" : "Which risk factors associated with an intrauterine device (IUD) use would the nurse include in the discussion of an IUD with a client based on the information in the history and physical? Select all that apply."
+      },
+      {
+        "correctIndices" : [
+          0
+        ],
+        "explanation" : "",
+        "id" : "E0FC6CAB-7561-468D-99D9-F94B9AF3BA33",
+        "options" : [
+          "Adolescent pregnancy is considered a high-risk situation.",
+          "Typically, the adolescent's support group would disapprove of this choice.",
+          "Alternative birth centers only admit clients over the age of 21 years.",
+          "Alternative birth centers are a suitable option for all pregnant women."
+        ],
+        "text" : "While caring for a pregnant 17-year-old, the client states, \"I want to deliver my baby at an alternative birth center.”.Which information would be most important for the nurse to keep in mind when responding to the client?"
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "",
+        "id" : "84E2A95F-3187-4C1A-969E-BE66A5BC2686",
+        "options" : [
+          "Promethazine.",
+          "Oxytocin.",
+          "Morphine sulfate.",
+          "Misoprostol."
+        ],
+        "text" : "A laboring primigravida client at 8 cm of dilation is administered a prescribed pain medication.The nurse prepares to monitor the newborn for respiratory depression when which medication is administered?"
+      },
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "Correct Answer (mU\/min) : 6.7\n\nSolution\n\nStep 1 is: Calculate the total oxytocin in mU:. 20 units × (1000 mU ÷ 1 unit) = 20000 mU.\n\nStep 2 is: Calculate the concentration of the oxytocin solution in mU\/mL:. 20000 mU ÷ 500 mL = 40 mU\/mL.\n\nStep 3 is: Calculate the total mU of oxytocin infused per hour:. 10 mL\/hr × 40 mU\/mL = 400 mU\/hr.\n\nStep 4 is: Convert the infusion rate from mU\/hr to mU\/min:. 400 mU\/hr ÷ 60 min\/hr = 6.666. mU\/min.\n\nStep 5 is: Round to the nearest tenths place:. 6.7 mU\/min.",
+        "id" : "4668F2ED-F828-420B-8CF3-9053EAEBA9F8",
+        "options" : [
+          "7.8",
+          "10",
+          "4",
+          "6.7"
+        ],
+        "text" : "The nurse is preparing to administer oxytocin to a laboring client.The nurse notes the patient's oxytocin infusion is set at 10 mL\/hr. The IV bag contains 20 units of oxytocin mixed in 500 mL Lactated Ringer's. How many mU\/min of oxytocin is the patient receiving? Round to the nearest tenths place. Record numerical answers only."
+      },
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "",
+        "id" : "40AF3F2B-882C-4123-92F9-1AE1604DEC1F",
+        "options" : [
+          "The client has expelled the placenta.",
+          "The woman has an internal laceration.",
+          "The client has an atonic uterus.",
+          "The placenta has separated."
+        ],
+        "text" : "A client had a baby by normal spontaneous vaginal delivery (NSVD) 10 minutes ago.The nurse notes that a gush of blood was just expelled and the umbilical cord lengthened. What would the nurse conclude?"
+      },
+      {
+        "correctIndices" : [
+          0,
+          1,
+          4,
+          3
+        ],
+        "explanation" : "",
+        "id" : "50455352-4D15-42E7-ABD9-EF51833A61F4",
+        "options" : [
+          "Have oxygen available in case of hypotension.",
+          "Maintain intravenous fluid administration.",
+          "Position the client supine for ease of monitoring.",
+          "Monitor fetal heart rate and labor progress per hospital protocol.",
+          "Check the bladder for distention every 2 hours.",
+          "Administer an oxytocin infusion to maintain the labor pattern."
+        ],
+        "text" : "A client recently is planned for an epidural catheter in the second stage of labor.Which assessments and interventions are necessary once an epidural catheter has been inserted? Select all that apply."
+      },
+      {
+        "correctIndices" : [
+          5,
+          1,
+          3
+        ],
+        "explanation" : "",
+        "id" : "4BB8FAE4-9D92-47FA-8F78-621B7D8C4743",
+        "options" : [
+          "Hospitalization is necessary for 48 hours after the procedure.",
+          "This test will require aspiration of amniotic fluid.",
+          "Changing of abdominal curvature is a normal finding.",
+          "Ultrasound will be used during this procedure.",
+          "A fever is expected after the procedure due to the trauma to the abdomen.",
+          "Patients who are Rh negative will need RhoGAM after the procedure."
+        ],
+        "text" : "When providing instructions to a pregnant client regarding an amniocentesis,which information would the nurse include? Select all that apply."
+      },
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "G4 P1111 is the correct documentation. Gravida (G) represents 4 pregnancies (current + 3 past). Para (P) breakdown is: Term (T): one delivery at 38 weeks (1). Preterm (P): one delivery at 26 weeks (1). Abortions\/Miscarriages (A): one loss at 8 weeks (1). Living Children (L): one child living (1). Thus, the notation is G4 P1111.",
+        "id" : "348B4888-E42E-4AB7-B761-C1DF25F1BC1E",
+        "options" : [
+          "G4 P1011.",
+          "G4 P1111.",
+          "G5 P1211.",
+          "G4 P2112."
+        ],
+        "text" : "The nurse is documenting the obstetrical history of a client who is currently 18 weeks pregnant utilizing the GTPAL system.Past obstetrical history includes a vaginal delivery at 26 weeks of a newborn who did not survive, a miscarriage at 8 weeks, and one living child who was delivered at 38 weeks."
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "The position Left Occiput Anterior (LOA) means the fetal occiput (the presenting part) is on the maternal left side and toward the anterior pelvis. The station of +4 indicates the presenting part is significantly below the ischial spines (the point of 0 station), almost at the perineum, which does not align with the description of \"at the level of the ischial spines.”.\n\nThe designation Left Shoulder Anterior (LSA) would mean the shoulder is the presenting part, which typically signifies a transverse lie and not the fetal head being well-flexed as described. A station of -2 means the head is above the ischial spines, which contradicts the description of the head being \"at the level of the ischial spines\" (0 station).\n\nRight Occiput Anterior (ROA) correctly describes the fetal position. The fetal head is the presenting part, well flexed, the occiput is on the maternal right side (\"fetal back is on the maternal right side between the midline and lateral surface\"), and toward the anterior pelvis. The station of 0 accurately indicates the head is \"at the level of the ischial spines.”.\n\nRight Shoulder Transverse (RST) indicates the shoulder is the presenting part and is in the transverse position on the maternal right side, which is inconsistent with the description of the fetal head being the presenting part and well-flexed. A station of -3 means the presenting part is still high in the pelvis, 3 cm above the ischial spines.",
+        "id" : "5B043D39-ABFF-4A49-9B42-E43EF42171DA",
+        "options" : [
+          "Left occiput anterior (LOA), +4 station.",
+          "Left shoulder anterior (LOA), -2 station.",
+          "Right occiput anterior (ROA), 0 station.",
+          "Right shoulder transverse (RST), -3 station."
+        ],
+        "text" : "Which position would the nurse document when the fetal head is in the anterior position, well flexed, at the level of the ischial spines, and the fetal back is on the maternal right side between the midline and lateral surface of the abdomen?"
+      },
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "",
+        "id" : "966BCC2D-9DE1-4AA0-9C8D-AAC181E82C1A",
+        "options" : [
+          "Abortion is suggested only when the fetus is found to have a severe defect that is not compatible with life.",
+          "Recommendations are made to consider adoption when defects are predicted.",
+          "After the probability of a defect is determined, the couple's own primary health care provider helps the couple decide on the appropriate action.",
+          "Families are counseled to understand the diagnosis, the probable cause and how the condition can be managed."
+        ],
+        "text" : "A 36 year old client with a gestational age of 11 weeks has been referred to genetic counseling based on a family history of an inheritable problem and advanced maternal age.The client is concerned because they believe that genetic counseling will favor abortion if studies reveal a defective fetus. Which response would the nurse provide to the client regarding genetic counseling?"
+      },
+      {
+        "correctIndices" : [
+          0
+        ],
+        "explanation" : "Correct Answer (mU\/min) : 8\n\nSolution\n\nStep 1 is: Calculate the total amount of oxytocin in milliunits (mU):. 30 units × (1,000 mU\/1 unit) = 30,000 mU.\n\nStep 2 is: Calculate the concentration of oxytocin in mU\/mL:. 30,000 mU ÷ 500 mL = 60 mU\/mL.\n\nStep 3 is: Calculate the total amount of oxytocin administered per hour (mU\/hr):. 60 mU\/mL × 8 mL\/hr = 480 mU\/hr.\n\nStep 4 is: Convert the infusion rate from mU\/hr to mU\/min:. 480 mU\/hr ÷ 60 min\/hr = 8 mU\/min. Final calculated answer: 8 mU\/min",
+        "id" : "420AF0E6-DED9-4ADC-BAD3-0063C29F27C5",
+        "options" : [
+          "8",
+          "12",
+          "16",
+          "24"
+        ],
+        "text" : "The nurse is preparing to administer oxytocin to a laboring client.The nurse notes the patient's oxytocin infusion is set at 8 mL\/hr. The IV bag contains 30 units of oxytocin mixed in 500 mL Lactated Ringer's. How many mU\/min of oxytocin is the patient receiving? Round to the nearest whole number. Record numerical answers only."
+      },
+      {
+        "correctIndices" : [
+          0
+        ],
+        "explanation" : "",
+        "id" : "45B7B5DB-1595-4022-88B1-F895883B9D88",
+        "options" : [
+          "Live virus immunizations are contraindicated while pregnant.",
+          "Immunizations should be restricted to live viruses only.",
+          "Inactivated virus vaccines are always safe in pregnancy and can be given at any time.",
+          "The only immunization that should be avoided is for the flu."
+        ],
+        "text" : "A pregnant client is planning travel to a foreign country as part of a work assignment and needs immunizations.What would the nurse instruct the client about immunizations while pregnant?"
+      },
+      {
+        "correctIndices" : [
+          0
+        ],
+        "explanation" : "",
+        "id" : "5BF0FC5D-F3A7-4846-83B0-FE24407A3C4F",
+        "options" : [
+          "Prevention of the occurrence of profuse bleeding after placental separation.",
+          "Limiting the discomfort of labor pains.",
+          "Stimulation of the client's breasts to begin lactating.",
+          "Relaxation of the uterus to expel the placenta."
+        ],
+        "text" : "The nurse and student are discussing how to evaluate a client receiving Oxytocin in the third stage of labor.What does the nurse include as the desired outcome of this medication?"
+      },
+      {
+        "correctIndices" : [
+          3
+        ],
+        "explanation" : "",
+        "id" : "03AFFC15-F985-4C3B-B98F-D8451747C48B",
+        "options" : [
+          "Meconium is being expelled with contractions.",
+          "Intrauterine infection has developed in late gestation.",
+          "The fetus has a neural tube defect.",
+          "Fetal well-being is compromised."
+        ],
+        "text" : "A 41-week gestation client in the second stage of labor has ruptured membranes and the fetus is in a breech position.During the assessment, the nurse notes green amniotic fluid. Which statement describes the nurse's findings?"
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "",
+        "id" : "A27CA338-F1AD-4720-992B-817B7FDECD0A",
+        "options" : [
+          "When did your contractions begin.",
+          "When is your baby's expected due date.",
+          "Have your membranes ruptured.",
+          "Is this your first pregnancy."
+        ],
+        "text" : "Which query is most important to ask a client who arrives to the birthing unit with birth imminent?"
+      },
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "",
+        "id" : "63CFA59B-E24F-4B0E-9918-98409A4D913D",
+        "options" : [
+          "Continue to monitor contraction duration every one hour.",
+          "Discontinue the oxytocin infusion.",
+          "Slow the infusion until a decrease in contractions are seen.",
+          "Increase the flow rate of the fluid line infusion."
+        ],
+        "text" : "The fetal monitor strip below is from a client receiving oxytocin augmentation for labor.What would the nurse do first for this client?"
+      },
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "The Gynecoid pelvis is considered the classic female pelvis and is the most common and most favorable for vaginal delivery. It possesses a rounded inlet, a wide and deep posterior segment, a wide pubic arch (usually >90°), and walls that are straight. This structure allows the fetal head to easily descend and rotate through the birth canal, making it ideal for childbirth.",
+        "id" : "A9EE48B7-DE9C-42F2-9B49-6F958A60FF59",
+        "options" : [
+          "Anthropoid pelvis.",
+          "Gynecoid pelvis.",
+          "Android pelvis.",
+          "Platypelloid pelvis."
+        ],
+        "text" : "The client is inquiring to the health care provider about a pelvis that is rounded, forward-facing, with a wide pubic arch, and ideal for childbirth.Which of the following describes this pelvic type?"
+      },
+      {
+        "correctIndices" : [
+          0
+        ],
+        "explanation" : "At 20 weeks gestation, the uterine fundus typically reaches the level of the umbilicus (navel). This standardized landmark is due to the uterus's growth pattern, where it rises out of the pelvis and becomes an abdominal organ. Measuring fundal height from the symphysis pubis to the top of the fundus, it usually correlates with the weeks of gestation ± 2 cm between 18 and 32 weeks, making 20 cm at the umbilicus the expected finding.",
+        "id" : "A9358D1A-1A20-4BD0-ACDA-34C73F730C95",
+        "options" : [
+          "At the level of the umbilicus.",
+          "Two finger-breadths below the umbilicus.",
+          "Halfway between the symphysis pubis and the umbilicus.",
+          "At the level of the xyphoid process."
+        ],
+        "text" : "A client is coming in for their 20-week prenatal check.Where would the nurse correctly measure the fundal height for a gestation of 20 weeks?"
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "The fetal head being at +4 station (vertex presentation) is deep in the pelvis and the head is subject to significant compression during intense labor contractions. This compression can cause a temporary increase in intracranial pressure which stimulates the vagus nerve, resulting in a reflex deceleration of the heart rate (FHR drops) known as an early deceleration.",
+        "id" : "AD571598-4A94-41C4-B421-1F223F18CD20",
+        "options" : [
+          "Severe back discomfort will occur for the client.",
+          "A cesarean birth probably will be necessary.",
+          "The fetus is experiencing increased intracranial pressure.",
+          "The decreased heart rate is from meconium in the amniotic fluid."
+        ],
+        "text" : "The nurse is caring for a client whose fetus is at +4 station and in vertex presentation. The nurse notices the fetal heart rate drops from 160 to 120 beats per minute.The nurse plans and implements care with which consideration in mind?"
+      },
+      {
+        "correctIndices" : [
+          2
+        ],
+        "explanation" : "Step 1 is: Add 7 days to the LMP date. 19 + 7 = 26. The new date is October 26, 2023.\n\nStep 2 is: Subtract 3 months from the LMP month (October is the 10th month). 10 - 3 = 7. The new month is July.\n\nStep 3 is: Add 1 year to the LMP year. 2023 + 1 = 2024.\n\nStep 4 is: Combine the new month, day, and year. The estimated date of delivery is 07\/26\/2024.",
+        "id" : "E6FC2855-E0CE-4977-B34B-E1F5D1548655",
+        "options" : [
+          "07\/24\/2024",
+          "07\/25\/2024",
+          "07\/26\/2024",
+          "07\/27\/2024"
+        ],
+        "text" : "A client arrives at the prenatal clinic for their first prenatal assessment. They tell the nurse that the first day of her last menstrual period (LMP) was October 19, 2023.Using Naegele's rule, the nurse informs the client that the estimated date of delivery is which date? Please record answer as MM\/DD\/YYYY."
+      },
+      {
+        "correctIndices" : [
+          4,
+          1,
+          2
+        ],
+        "explanation" : "",
+        "id" : "3615623D-E278-4848-925D-ECF9DE74BEDC",
+        "options" : [
+          "Fetal effacement.",
+          "Fetal muscle tone.",
+          "Fetal breathing movement.",
+          "Fetal gender.",
+          "Amniotic fluid volume.",
+          "Fetal neck translucency."
+        ],
+        "text" : "A nurse is educating a pregnant client on their scheduled biophysical profile (BPP). What components of the BPP would be included in this teaching? Select all that apply."
+      },
+      {
+        "correctIndices" : [
+          5,
+          1,
+          0
+        ],
+        "explanation" : "",
+        "id" : "1DAD8F35-97FD-4827-ACD2-81AE758CC6F8",
+        "options" : [
+          "Provide intravenous penicillin during labor.",
+          "Offer intravenous prophylaxis to those clients not screened.",
+          "Withhold treatment for clients with cesarean sections if their membranes ruptured.",
+          "Provide ten days of antibiotics to clients postpartum.",
+          "Schedule oral antibiotics to the neonate.",
+          "Screen all clients at 35-38 weeks' gestation."
+        ],
+        "text" : "A client who is pregnant is screened for Group B streptococcus.Which steps would the nurse include in the plan of care related to the screening and management of this disorder? Select all that apply."
+      },
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "The first stage of labor begins with the onset of regular, painful uterine contractions that cause progressive cervical change (effacement and dilation), and ends when the cervix is fully dilated (10 cm). The client's parameters of 4 cm dilation and 75.",
+        "id" : "F224350C-859C-4FED-B93A-6771CB706EF8",
+        "options" : [
+          "Transition Phase.",
+          "First Stage.",
+          "Third Stage.",
+          "Second Stage."
+        ],
+        "text" : "The nurse is caring for a client who is in active labor, is 75% effaced, 4 cm dilated and at +1 station.Which stage of labor will the nurse document that the client has reached?"
+      },
+      {
+        "correctIndices" : [
+          1
+        ],
+        "explanation" : "Assessing the fetal heart rate (FHR) immediately is the most critical intervention following rupture of membranes (ROM), especially when the fetal station is +1 (well-engaged). ROM increases the risk of cord prolapse, which can lead to acute fetal hypoxia and death. Continuous or frequent FHR monitoring via external or internal methods is essential to detect any signs of distress or umbilical cord compression.",
+        "id" : "6321B24C-406D-4782-A7F8-8436FB2B67E3",
+        "options" : [
+          "Perform a cervical swab for Group B strep.",
+          "Assess fetal heart rate via external monitoring.",
+          "Reposition the client onto their left side.",
+          "Determine client's gestational age."
+        ],
+        "text" : "A vaginal exam reveals a client's membranes have ruptured, their cervix is dilated to 7 cm, and the fetal head is at station +1.What priority action would the nurse take in response?"
+      },
+      {
+        "correctIndices" : [
+          1,
+          5,
+          0,
+          4
+        ],
+        "explanation" : "",
+        "id" : "6C142B2D-EF92-4988-89CF-DC38A599EF96",
+        "options" : [
+          "Confirms placental size and location.",
+          "Estimates the amount of amniotic fluid.",
+          "Monitors fetal reactivity.",
+          "Diagnoses chromosomal abnormalities.",
+          "Estimates fetal size and gestational age.",
+          "Identifies the gender of the fetus."
+        ],
+        "text" : "The nurse explains to a pregnant client how ultrasound (US) can aid in the assessment of the fetus.What would the nurse include in the teaching? Select all that apply."
+      },
+      {
+        "correctIndices" : [
+          3,
+          4,
+          1,
+          0
+        ],
+        "explanation" : "",
+        "id" : "6A3387AF-87DF-43D0-8C2E-AC86A42C7EE7",
+        "options" : [
+          "Intensity of the contraction.",
+          "Resting tone between contractions.",
+          "Client's position during contraction and labor.",
+          "Fetal heart rate during labor.",
+          "Frequency of the contraction.",
+          "Client's response to the contraction."
+        ],
+        "text" : "The nurse is explaining to a student how to assess a client via internal fetal monitoring.What would the nurse include as characteristics of this practice? Select all that apply."
+      }
+    ],
+    "title" : "NUR 404 EXAM 4"
+  }
+]
