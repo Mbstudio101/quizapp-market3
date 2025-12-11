@@ -1,0 +1,658 @@
+[
+  {
+    "id": "PEDI-EXAM-2025-05-12",
+    "title": "Pediatrics Nursing 05/12/2025",
+    "questions": [
+      {
+        "correctIndices": [0],
+        "explanation": "Mumps is a viral infection caused by a paramyxovirus, primarily characterized by painful swelling of the parotid salivary glands, leading to pain on chewing or near the earlobe. In post-pubertal males, like this 15-year-old, mumps can also cause orchitis, which is the inflammation and swelling of one or both testes, perfectly aligning with the client's symptoms. The general symptoms of fever, headache, and malaise are also typical of the prodromal phase of mumps infection.",
+        "id": "PEDI-Q1",
+        "options": [
+          "Mumps.",
+          "Poliomyelitis.",
+          "Infectious mononucleosis.",
+          "Herpes zoster."
+        ],
+        "text": "A 15-year-old boy visits his primary care physician's office with fever, headache, and malaise, along with complaints of pain on chewing and pain in the jawline just in front of the earlobe. The boy asks his mother to leave the exam room for a minute and then tells the nurse that he is also experiencing testicular swelling. The nurse recognizes that this client most likely has which condition?"
+      },
+      {
+        "correctIndices": [2],
+        "explanation": "Systemic lupus erythematosus (SLE) is defined as a chronic, multisystem autoimmune disease that follows a course characterized by periods of increased disease activity, known as "flare-ups," alternating with periods of remission where symptoms are minimal or absent. This statement accurately reflects the lifelong, relapsing-remitting nature of the condition and demonstrates a solid understanding of the disease process.
+",
+        "id": "PEDI-Q2",
+        "options": [
+          "SLE is a rheumatic disease that mostly affects my joints.",
+          "If my SLE has been found early enough in the disease process, there is a good chance that medication can cure it.",
+          "SLE is an autoimmune disorder that I will always have, with times of flare-ups and times of minimal to no symptoms.",
+          "SLE only affects my skin; it seldom causes problems in any other organs."
+        ],
+        "text": "An adolescent client has just been diagnosed with systemic lupus erythematosus (SLE). Following client education about the disease, which statement by the client demonstrates understanding of SLE?"
+      },
+      {
+        "correctIndices": [0],
+        "explanation": "Parental mental health issues, such as a history of depression in the mother, significantly increase the risk for child maltreatment. Psychological distress can impair a parent's ability to cope with stress, manage anger, provide consistent, nurturing care, and meet the child's emotional and physical needs, thereby increasing the likelihood of abuse or neglect occurring within the family unit.
+",
+        "id": "PEDI-Q3",
+        "options": [
+          "The child's mother has a history of depression.",
+          "Both parents work outside the home.",
+          "The child's father is the primary caretaker.",
+          "The family lives in an apartment."
+        ],
+        "text": "The nurse is caring for a child who has been hospitalized for maltreatment. When reviewing the child's records, which of the following may place the child at an increased risk of abuse?"
+      },
+      {
+        "correctIndices": [1],
+        "explanation": "Following any motor vehicle accident, the nurse's priority in the emergency setting is the primary survey, which mandates immediate evaluation of the Respiratory (Airway and Breathing), Cardiovascular (Circulation), and Neurologic (Disability) systems. These three systems are fundamental to maintaining life, and compromise in any of them, such as inadequate ventilation or brain injury, requires immediate, life-saving intervention before proceeding to a more detailed, secondary assessment.
+",
+        "id": "PEDI-Q4",
+        "options": [
+          "Respiratory, cardiovascular, and skeletal.",
+          "Respiratory, cardiovascular, and neurologic.",
+          "Cardiovascular, gastrointestinal, and neurologic.",
+          "Neurologic, cardiovascular, and endocrine."
+        ],
+        "text": "A child has just arrived by ambulance at the emergency room following a motor vehicle accident and a nurse is assessing him. Which three body systems should the nurse evaluate first?"
+      },
+      {
+        "correctIndices": [0],
+        "explanation": "Digoxin is a cardiac glycoside that slows and strengthens the heart rate and is commonly used in infants with heart failure. For an infant, the normal apical pulse rate typically ranges from 100 to 160 beats per minute. A rate of 80 beats per minute is significantly below the acceptable lower limit, indicating potential digoxin toxicity or an existing underlying bradycardia, requiring the nurse to hold the dose and notify the physician immediately to prevent serious adverse effects.
+",
+        "id": "PEDI-Q5",
+        "options": [
+          "80 beats per minute.",
+          "140 beats per minute.",
+          "100 beats per minute.",
+          "120 beats per minute."
+        ],
+        "text": "The nurse is developing a plan of care for an infant with heart failure who is receiving digoxin. The nurse would hold the dose of digoxin and notify the physician if the infant's apical pulse rate was:"
+      },
+      {
+        "correctIndices": [1],
+        "explanation": "The child is showing signs of hypoxemia and respiratory compromise (labored breathing, cough, oxygen saturation 90) following a near-drowning incident. Oxygen administration is the priority intervention to increase arterial oxygen saturation and ensure adequate oxygen delivery to tissues. A saturation of 90 is a clinical sign of respiratory insufficiency requiring supplemental oxygenation.
+",
+        "id": "PEDI-Q6",
+        "options": [
+          "Having the child sit up straight in a chair.",
+          "Administering 100% oxygen.",
+          "Providing sedation as ordered.",
+          "Checking his capillary refill time."
+        ],
+        "text": "The nurse notices a child has labored breathing, a cough, and an oxygen saturation of 90% after a near-drowning incident. Which of the following would be the priority?"
+      },
+      {
+        "correctIndices": [2],
+        "explanation": "Acral edema, which is swelling of the hands and feet, is a classic sign of systemic venous congestion resulting from the failing heart's inability to effectively pump blood forward. This pooling of fluid in the periphery is a key indicator that a child with a congenital heart defect may be developing new or worsening right-sided heart failure.
+",
+        "id": "PEDI-Q7",
+        "options": [
+          "Bradypnea.",
+          "Inability to sweat.",
+          "Acral edema.",
+          "Splenomegaly."
+        ],
+        "text": "The nurse is providing care to a child with a congenital heart defect. Which of the following would lead the nurse to suspect that the child is developing heart failure?"
+      },
+      {
+        "correctIndices": [3],
+        "explanation": "This statement is the most appropriate and therapeutic response, as it conveys non-judgmental presence, validation of the family's difficult emotional state, and an offer to provide information and answer questions. It establishes the nurse as a supportive resource for the family during a time of extreme crisis and uncertainty, which is the primary nursing role.
+",
+        "id": "PEDI-Q8",
+        "options": [
+          "\"I know this is overwhelming, but I want you to know he will be okay.\"",
+          "\"How could this accident have happened with you both there?\"",
+          "\"You must be so scared right now, especially since you were the one driving.\"",
+          "\"I am here to answer your questions and be with you during this difficult time.\""
+        ],
+        "text": "The nurse is caring for the family of a pediatric client during resuscitative efforts of their child following an accident. Which response by the nurse would be best?"
+      },
+      {
+        "correctIndices": [3],
+        "explanation": "Acetaminophen is the recommended antipyretic for fever associated with varicella. Crucially, salicylates (aspirin) must be avoided due to the significant risk of Reye's syndrome, a serious and potentially fatal condition involving liver and brain swelling. Selecting acetaminophen confirms that the parents understand the correct and safe method for fever management.
+",
+        "id": "PEDI-Q9",
+        "options": [
+          "\"He can go back to school 24 hours after we start the antibiotic.\"",
+          "\"We need to make sure that he washes his hands frequently.\"",
+          "\"His sister had the vaccine so she can't catch it.\"",
+          "\"If he has a fever, we can give him some acetaminophen.\""
+        ],
+        "text": "The nurse is providing teaching to the parents of a child with varicella. Which statement indicates that the parents have understood the instructions?"
+      },
+      {
+        "correctIndices": [3],
+        "explanation": "At 30 months old, a child's expressive language milestone should significantly exceed "one or two words" and grunting. The expected milestone for this age is a vocabulary of 50 or more words and the ability to combine two to three words into short phrases or sentences (e.g., "Mommy go"). This finding strongly suggests a language delay warranting immediate comprehensive developmental evaluation",
+        "id": "PEDI-Q10",
+        "options": [
+          "\"My child seems to prefer playing with certain toys and will not play with other toys very much.\"",
+          "\"My child likes a certain type of food and does not want to try new foods very often.\"",
+          "\"My child gets restless when we go to a restaurant to eat and we have to wait for our food.\"",
+          "\"My child does not say more than one or two words and grunts to indicate needs.\""
+        ],
+        "text": "The nurse is assessing a 30-month-old child during a routine well-child visit. Which statement by the parent would alert the nurse to further assess for a developmental delay or disorder?"
+      },
+      {
+        "correctIndices": [3],
+        "explanation": "The most appropriate type of family support in a crisis includes honest, frequent communication delivered by a designated primary nurse or team member who can stay with the parent. This communication strategy keeps the parent informed, reduces anxiety, builds trust, and allows the parent to feel included and supported during a traumatic and often terrifying resuscitation.
+",
+        "id": "PEDI-Q11",
+        "options": [
+          "Do not allow the mother to enter the trauma bay until the social worker completes a full investigation.",
+          "Place the mother in a corner of the room to observe the resuscitation privately.",
+          "Sit with the mother and provide up-to-date, open and honest communication.",
+          "Identify a grief counselor to sit with the family."
+        ],
+        "text": "During a pediatric emergency the patient's mother asks to enter the trauma bay. Which of the following actions provides the most appropriate type of family support?"
+      },
+      {
+        "correctIndices": [1],
+        "explanation": "Establishing a suitable intravenous (IV) site is the paramount first step in managing a patient in shock, especially hypovolemic shock from a broken arm, as it allows for immediate, rapid volume replacement with isotonic crystalloid fluids. Restoring intravascular volume is the primary goal to improve perfusion, making vascular access the initial life-saving priority.
+",
+        "id": "PEDI-Q12",
+        "options": [
+          "Draw blood for type and crossmatch.",
+          "Establish a suitable intravenous site.",
+          "Begin hyperventilation.",
+          "Provide oral analgesics as ordered."
+        ],
+        "text": "A 12-year-old boy has broken his arm and is showing signs and symptoms of shock. Which of the following would the nurse do first?"
+      },
+      {
+        "correctIndices": [3],
+        "explanation": "Swimming is an excellent form of exercise for children with JIA because the buoyancy of the water provides a non-weight-bearing environment, significantly reducing the impact and stress on inflamed joints. This allows for improved range of motion, muscle strengthening, and cardiovascular conditioning without increasing joint pain or damage.
+",
+        "id": "PEDI-Q13",
+        "options": [
+          "Jogging.",
+          "Jumping rope.",
+          "Tennis.",
+          "Swimming."
+        ],
+        "text": "The parent of a child diagnosed with Juvenile Idiopathic Arthritis asks about exercises that would be good for the child. Which of the following would promote mobility?"
+      },
+      {
+        "correctIndices": [3],
+        "explanation": "This response is the most therapeutic and accurate, validating the parent's concern while providing a correct scientific explanation. While highly effective, vaccines like the MMR (Measles, Mumps, Rubella) vaccine do not guarantee 100 percent immunity (primary vaccine failure) in all individuals, meaning a small percentage of fully vaccinated people may still contract the disease. This is due to individual variations in immune response.
+",
+        "id": "PEDI-Q14",
+        "options": [
+          "Are you sure your child received an immunization for mumps?",
+          "I am wondering if your physician followed the immunization schedule correctly.",
+          "I am sure it must be frustrating. Where did you have the immunizations performed?",
+          "While immunizations are highly effective they aren't 100% protective in all individuals."
+        ],
+        "text": "The mother of a child with mumps tells the nurse that she does not understand how her son could have gotten mumps since he was immunized according to her physician's recommendations. What is the best response by the nurse?"
+      },
+      {
+        "correctIndices": [1],
+        "explanation": "The Measles, Mumps, and Rubella (MMR) vaccine is a live attenuated vaccine, meaning it contains weakened, but still living, viruses that can replicate to stimulate a strong immune response. In a child who is HIV positive with a very low CD4 count (severe immunosuppression), the weakened viruses in the vaccine could potentially cause a disseminated or severe infection because the child's immune system cannot adequately control the replication of the vaccine strain.
+",
+        "id": "PEDI-Q15",
+        "options": [
+          "Inactivated Polio Vaccine.",
+          "Measles, Mumps, and Rubella.",
+          "Human Papillomavirus.",
+          "Diphtheria, Tetanus, and acellular Pertussis."
+        ],
+        "text": "The nurse is reviewing the immunization schedule with the parent of a child who is HIV positive and has a very low CD4 count. Which of the following immunizations should not be given?"
+      },
+      {
+        "correctIndices": [1],
+        "explanation": "Decreased appetite, or anorexia, is one of the most frequently reported adverse effects of methylphenidate hydrochloride, a Schedule II CNS stimulant. The medication acts on the dopaminergic and noradrenergic systems, which can affect the satiety center in the hypothalamus, leading to a reduced drive to eat. This effect is a primary concern for the child's growth and nutritional status.
+",
+        "id": "PEDI-Q16",
+        "options": [
+          "Rapid increase in height.",
+          "Decreased appetite.",
+          "Garbled speech.",
+          "Sleepiness."
+        ],
+        "text": "A child with attention deficit hyperactivity disorder (ADHD) is prescribed methylphenidate hydrochloride. What should the nurse instruct the parents regarding an adverse effect of this medication?"
+      },
+      {
+        "correctIndices": [1],
+        "explanation": "Periorbital edema and generalized urticaria (hives) are classic signs of a systemic hypersensitivity reaction (allergic reaction), which carries a high risk for progression to anaphylaxis. The most critical complication of anaphylaxis is airway compromise due to laryngeal edema or bronchospasm. Assessing lung sounds bilaterally and the quality of respirations is the priority action to detect early signs of a life-threatening change in respiratory status.
+",
+        "id": "PEDI-Q17",
+        "options": [
+          "Evaluate fluid volume status.",
+          "Assess lung sounds bilaterally.",
+          "Administer a corticosteroid.",
+          "Administer antibiotics."
+        ],
+        "text": "The nurse is caring for a child and notes periorbital edema and urticaria. Which action by the nurse is priority?"
+      },
+      {
+        "correctIndices": [3],
+        "explanation": "While fluid replacement is necessary for a febrile child who may be dehydrated, attempting to replace fluid deficits orally in a child with a toxic appearance is contraindicated and unsafe. These children are at high risk for aspiration, have poor gut perfusion, and require rapid, controlled fluid resuscitation, which must be accomplished via the intravenous (IV) route. Oral rehydration is too slow and unreliable in this critical condition.
+",
+        "id": "PEDI-Q18",
+        "options": [
+          "Administering acetaminophen as ordered.",
+          "Obtaining intravenous (IV) access.",
+          "Administering antibiotics as ordered.",
+          "Replacing fluid deficits orally."
+        ],
+        "text": "The nurse is caring for a 24-month-old child with a fever of 101°F (38°C). The child also exhibits a toxic appearance. The nurse could expect all of the following interventions except which one?"
+      },
+      {
+        "correctIndices": [1],
+        "explanation": "This statement supports a nursing diagnosis of knowledge deficit because it indicates a misconception that head lice are associated only with poor hygiene or low socioeconomic status, when in fact, lice infestation is unrelated to cleanliness and can occur in any population group through head-to-head contact.
+",
+        "id": "PEDI-Q19",
+        "options": [
+          "Everybody in the house will need to be checked.",
+          "I can't believe it. We're not unclean, poor people.",
+          "That explains his complaints of itching on his neck.",
+          "We'll still have to use the nit comb even after the treatment."
+        ],
+        "text": "The parents of a 5-year-old have just found out that their child has head lice. Which statement by the parents would support the nursing diagnosis of knowledge deficit?"
+      },
+      {
+        "correctIndices": [1],
+        "explanation": "Severe erosion of teeth, specifically dental enamel, is a common and severe complication of bulimia nervosa, primarily caused by repeated self-induced vomiting where gastric acid bathes the teeth, leading to demineralization and loss of protective structure.
+",
+        "id": "PEDI-Q20",
+        "options": [
+          "Diabetes mellitus.",
+          "Severe erosion of teeth.",
+          "Hypertension.",
+          "Atherosclerosis."
+        ],
+        "text": "A 17-year-old girl has been diagnosed with bulimia nervosa. Which complication should the nurse carefully assess for in this client?"
+      },
+      {
+        "correctIndices": [3],
+        "explanation": "A Complete Blood Count (CBC) is anticipated because it provides a quantitative measure of white blood cells (WBCs), red blood cells (RBCs), and platelets, offering critical initial insights into the number and differential count of leukocytes, which are the main components of the immune system.",
+        "id": "PEDI-Q21",
+        "options": [
+          "X-ray.",
+          "Electrocardiogram (EKG).",
+          "Urine analysis.",
+          "Complete blood count (CBC)."
+        ],
+        "text": "A young client is admitted to the hospital directly from the clinic. The physician suspects a problem with the child's immune system. What test does the nurse anticipate the physician will order for this client?"
+      },
+      {
+        "correctIndices": [0],
+        "explanation": "Anaphylaxis is a severe, life-threatening, systemic hypersensitivity reaction (Type I) to an antigen, such as insect venom, characterized by rapid onset of symptoms like generalized itching, vomiting, and, most critically, respiratory distress due to laryngeal edema or bronchospasm.
+",
+        "id": "PEDI-Q22",
+        "options": [
+          "Anaphylaxis.",
+          "Autoimmune response.",
+          "Immunodeficiency.",
+          "Active immunity."
+        ],
+        "text": "A seven-year-old child is rushed into the emergency room after being stung by a yellow jacket. The child is nauseated and vomiting and is experiencing itching and swelling on the arm where stung. The child is having trouble breathing. Which type of response is the child experiencing?"
+      },
+      {
+        "correctIndices": [3],
+        "explanation": "A toddler with Tetralogy of Fallot squatting quietly is experiencing a hypercyanotic spell (tet spell) in which squatting is an instinctive compensatory mechanism that increases systemic vascular resistance, thereby decreasing right-to-left shunting and improving pulmonary blood flow, indicating a critical need for immediate intervention to prevent severe hypoxia.
+",
+        "id": "PEDI-Q23",
+        "options": [
+          "A child with history of hypertension and a current blood pressure of 130/90 mm Hg.",
+          "An infant whose parents report difficulty feeding with a temperature of 100.1°F (38°C).",
+          "An adolescent with coarctation of the aorta with reports of coughing and runny nose.",
+          "A toddler with tetralogy of Fallot squatting quietly in the corner of the room."
+        ],
+        "text": "The nurse receives the shift report of multiple pediatric clients. Which pediatric client will the nurse see first?"
+      },
+      {
+        "correctIndices": [3],
+        "explanation": "Scratching the varicella lesions must be strictly avoided as it can break the skin barrier, leading to secondary bacterial infections like cellulitis or impetigo, which require antibiotic treatment. Furthermore, excoriation from scratching significantly increases the risk of permanent scarring (pitting) after the lesions have healed, making this a critical instruction for parents.
+",
+        "id": "PEDI-Q24",
+        "options": [
+          "\"We should put him in a warm bath if he is itchy.\"",
+          "\"We can use salt solutions to help heal his oral lesions.\"",
+          "\"We can give him aspirin for fever.\"",
+          "\"We will make sure to remind him not to scratch the lesions.\""
+        ],
+        "text": "The nurse is teaching the parents of a child with varicella about the disorder. The nurse determines that the teaching was successful when the parents state which of the following?"
+      },
+      {
+        "correctIndices": [3],
+        "explanation": "Assessing the level of consciousness (LOC) is the essential next step after the primary survey (Airway, Breathing, Circulation) in pediatric emergency care, corresponding to the 'D' (Disability) in the ABCDE approach. A rapid assessment, often using the AVPU scale (Alert, Voice, Pain, Unresponsive), provides an immediate gauge of the child's neurological function and helps detect life-threatening issues like hypoxia or severe hypoglycemia.
+",
+        "id": "PEDI-Q25",
+        "options": [
+          "Obtain a full set of vital signs.",
+          "Provide pain management.",
+          "Remove the child's clothing.",
+          "Assess level of consciousness."
+        ],
+        "text": "A child is brought into the emergency department. After assessing a child's airway, breathing, and circulation (ABCs), which of the following would the nurse do next?"
+      },
+      {
+        "correctIndices": [2],
+        "explanation": "Administering prescribed antiretroviral medications (ART) and prophylactic antibiotics is the priority nursing intervention for a child with Human Immunodeficiency Virus (HIV) infection. Adherence to the ART regimen is critical for maintaining viral suppression, preventing disease progression to AIDS, and preserving the function of the child's severely compromised immune system, thereby reducing the risk of life-threatening opportunistic infections.
+",
+        "id": "PEDI-Q26",
+        "options": [
+          "Assess pain after invasive procedures.",
+          "Review laboratory CD4 counts daily.",
+          "Administer prescribed medications.",
+          "Assist the child with daily activities."
+        ],
+        "text": "Which nursing intervention is a priority when caring for a child with HIV?"
+      },
+      {
+        "correctIndices": [3],
+        "explanation": "In all states and provinces, nurses are designated as mandatory reporters, meaning they are legally required to report any reasonable suspicion of child abuse or neglect to the appropriate child protective services or law enforcement. This response is appropriate because it is factual, non-judgmental, professional, and clearly explains that the action was a non-negotiable legal obligation rather than a personal decision.
+",
+        "id": "PEDI-Q27",
+        "options": [
+          "The healthcare provider will be coming to explain the situation.",
+          "I am unable to discuss this but I can contact my supervisor to speak with you.",
+          "I reported the incident to my supervisor who decided to contact the authorities.",
+          "As a nurse, I am required by law to report suspected child abuse."
+        ],
+        "text": "A nurse reports an incident of suspected child abuse. One of the parents of the child becomes upset and demands to know the reason for the nurse's action. Which of the following responses by the nurse is appropriate?"
+      },
+      {
+        "correctIndices": [1],
+        "explanation": "Hypersensitivity to touch, along with other sensory input irregularities (hypo- or hypersensitivity to sound, light, taste, or smell), is a common finding in children with Autism Spectrum Disorder (ASD). This sensory processing difference contributes to difficulties with daily functioning, social interaction, and emotional regulation, making it a key supportive characteristic for the suspected diagnosis.
+",
+        "id": "PEDI-Q28",
+        "options": [
+          "Easily distracted from playing.",
+          "Hypersensitivity to touch.",
+          "Distinct interest in others around him.",
+          "Conversations with an imaginary friend."
+        ],
+        "text": "A nurse is assessing a 5-year-old boy and suspects that the child may have an autism spectrum disorder. Which finding would help support the nurse's suspicions?"
+      },
+      {
+        "correctIndices": [2],
+        "explanation": "This is the scientifically correct guideline. The child is no longer considered contagious with chickenpox (varicella) once all vesicular lesions have dried and crusted over, as the viral load in the lesions is significantly reduced. This usually takes about six to seven days after the rash onset. School exclusion policies are based on preventing the spread of the highly contagious varicella-zoster virus to others.
+",
+        "id": "PEDI-Q29",
+        "options": [
+          "Not until all lesions have completely faded.",
+          "Ten days after the initial lesions appear.",
+          "As soon as all lesions are crusted.",
+          "As soon as the temperature is normal."
+        ],
+        "text": "Parents usually ask when their child can return to school after having chickenpox. The correct answer would be:"
+      },
+      {
+        "correctIndices": [3],
+        "explanation": "Bradycardia, an abnormally slow heart rate (normal heart rate for a school-age child is 60-100 beats/min), is generally not an expected finding in pediatric heart failure. Tachycardia (fast heart rate) is the body's compensatory mechanism to maintain adequate cardiac output in the presence of poor contractility or high volume load, and it is a typical finding",
+        "id": "PEDI-Q30",
+        "options": [
+          "Shortness of breath when playing.",
+          "Crackles on lung auscultation.",
+          "Tiring easily when eating.",
+          "Bradycardia."
+        ],
+        "text": "The nurse is reviewing the health history and physical examination of a child diagnosed with heart failure. The nurse would expect to find all of the following except:"
+      },
+      {
+        "correctIndices": [0],
+        "explanation": "This statement reflects a classic symptom of anorexia nervosa known as body image disturbance or distortion. Individuals with this condition have a profound fear of gaining weight and perceive themselves as being overweight or fat, even when they are severely underweight. This distorted self-perception drives the restrictive eating and weight-loss behaviors.
+",
+        "id": "PEDI-Q31",
+        "options": [
+          "I feel chubby no matter what I wear.",
+          "I would like to gain weight but I just cannot.",
+          "I would like to grow up to be a model.",
+          "I am afraid that someone is poisoning my food."
+        ],
+        "text": "An extremely thin preadolescent is being assessed by the nurse. Which client statement should the nurse identify as being consistent with that of a person with anorexia nervosa?"
+      },
+      {
+        "correctIndices": [0],
+        "explanation": "The infant's skin has a larger surface area to body weight ratio and a thinner stratum corneum (outermost layer) compared to an adult's. This increased permeability and surface area enhance the systemic absorption of topically applied medications, raising the risk of toxicity, a crucial consideration for safe drug administration in infants.
+",
+        "id": "PEDI-Q32",
+        "options": [
+          "That the infant's skin has greater permeability than that of an adult.",
+          "That there is less body surface area to be concerned about.",
+          "That the infant's blood vessels are deeper in the tissue than an adult's.",
+          "That there is decreased absorption rates of topical drugs in infants."
+        ],
+        "text": "A 6-month-old child has developed skin irritation due to an allergic reaction. He has been prescribed a topical skin ointment. The nurse will consider which of the following before administering the drug?"
+      },
+      {
+        "correctIndices": [3],
+        "explanation": "Maintenance of strict bed rest is generally not indicated or recommended for children with compensated congenital heart defects. Mild-to-moderate activity restrictions are common, but strict bed rest can lead to deconditioning, social isolation, and developmental delays. Activity should be encouraged as tolerated to promote growth and development.
+",
+        "id": "PEDI-Q33",
+        "options": [
+          "Signs of complications.",
+          "Maintaining adequate nutrition.",
+          "Daily weight assessment.",
+          "Maintenance of strict bed rest."
+        ],
+        "text": "The nurse is preparing a teaching plan for the parents of a child who has been diagnosed with a congenital heart defect. Which of the following would the nurse be least likely to include?"
+      },
+      {
+        "correctIndices": [2, 3],
+        "explanation": "Oral antibiotics are the cornerstone of treatment for localized bacterial infections of the skin and soft tissue, such as cellulitis or an abscess, which are suggested by the classic signs of inflammation (redness, pain, swelling) and systemic symptoms (fever). An antibiotic targeting common skin flora, such as a penicillinase-resistant penicillin or cephalosporin, is necessary to eradicate the invading bacteria and prevent the infection from spreading or becoming systemic, like sepsis.
+Monitoring daily weight is a critical nursing intervention for any child experiencing an acute illness accompanied by fever and inflammation, as it is the most reliable measure of fluid balance. Fever and infection can increase metabolic demands and insensible fluid losses, potentially leading to dehydration. Furthermore, in cases where the child is admitted or receiving treatment like antibiotics, daily weights help assess hydration status and are essential for accurate weight-based medication dosing.",
+        "id": "PEDI-Q34",
+        "options": [
+          "Permethrin 1%.",
+          "Topical antihistamine cream.",
+          "Oral antibiotics.",
+          "Monitor daily weight."
+        ],
+        "text": "A child cut his hand a few days ago. Now the area is red, painful, and swollen, and he has a fever. The nurse could expect which interventions to be part of the treatment plan? (Select all that apply.)"
+      },
+      {
+        "correctIndices": [0, 2],
+        "explanation": "The statement that the child needs to stay in bed for only 4–6 hours post-catheterization indicates the need for further teaching. For a venous approach, bed rest is typically required for 4–6 hours, but for an arterial approach, the standard period is 6–8 hours to allow adequate sealing of the vessel puncture site and minimize the risk of bleeding or hematoma formation. The nurse should confirm the specific approach and stress adherence to the minimum 6–8 hours for arterial entry to ensure vessel integrity is maintained.
+
+The statement that "A fever after the procedure is normal for a day or so" is incorrect and requires immediate correction. While a low-grade temperature elevation is possible in the first few hours due to the invasive nature of the procedure, a persistent or high fever is not normal and is often the earliest sign of infection, such as at the site or a systemic infection (sepsis). Parents should be instructed to report any fever (temperature ≥ 38.0°C or 100.4°F) immediately to their healthcare provider.
+",
+        "id": "PEDI-Q35",
+        "options": [
+          "He needs to stay in bed for 4-6 hours after the procedure.",
+          "I should apply pressure to the site in his groin if it starts to bleed.",
+          "A fever after the procedure is normal for a day or so.",
+          "I can start his medications when we get home."
+        ],
+        "text": "A child has undergone a cardiac catheterization and is being prepared for discharge. The nurse is instructing the parents and child about postprocedure care. Which statements if made by the parents indicate the need for further teaching? (Select all that apply.)"
+      },
+      {
+        "correctIndices": [1],
+        "explanation": "Logrolling the child to the side is the most appropriate technique for inspecting the back while maintaining spinal immobilization. This maneuver requires at least three rescuers (one stabilizing the head and neck, two to roll the body as a unit) to turn the patient onto their side simultaneously, keeping the head, neck, and torso in rigid alignment. This safe procedure allows for the visual and tactile assessment of the posterior surfaces for injury without compromising spinal integrity.
+",
+        "id": "PEDI-Q36",
+        "options": [
+          "Arch the child's back using two hands.",
+          "Logroll the child to the side.",
+          "Lift the child off the stretcher.",
+          "Sit the child upright."
+        ],
+        "text": "A nurse is conducting a secondary assessment of a child who has experienced multiple trauma. When inspecting the child's back which of the following would be most appropriate to do?"
+      },
+      {
+        "correctIndices": [0],
+        "explanation": "Asking "Have you thought about hurting yourself?" is the most therapeutic and appropriate initial response because it directly assesses for suicidal ideation, which is the immediate, life-threatening risk. Stating a wish to not be alive is a direct red flag that requires a non-judgmental, focused follow-up to determine the presence of a plan or intent. A direct question opens the door for the adolescent to disclose critical information needed for immediate safety planning and intervention.
+",
+        "id": "PEDI-Q37",
+        "options": [
+          "\"Have you thought about hurting yourself?\"",
+          "\"You are just trying to escape your problems.\"",
+          "\"Everyone feels sad once in a while.\"",
+          "\"Have you told your parents how you feel?\""
+        ],
+        "text": "What is the best response for the nurse to make to an adolescent who states, \"I am very sad. I wish I wasn't alive.\"?"
+      },
+      {
+        "correctIndices": [2],
+        "explanation": "Encouraging communicating with friends through social media is the most effective way to maintain stimulation and support the adolescent's sense of identity. Adolescents derive their self-concept heavily from peer interaction and social networking. Facilitating this contact reduces feelings of isolation, maintains social roles, and allows them to participate in their normal developmental tasks, thus bolstering their identity and emotional well-being despite hospitalization.
+",
+        "id": "PEDI-Q38",
+        "options": [
+          "Explain food choices appropriate to the prescribed diet.",
+          "Plan activities around scheduled rest periods.",
+          "Encourage communicating with friends through social media.",
+          "Teach the name and indications for use of all medications."
+        ],
+        "text": "The nurse is caring for a chronically ill adolescent client. What can the nurse do to maintain stimulation and support the client's sense of identity while hospitalized?"
+      },
+      {
+        "correctIndices": [0],
+        "explanation": "Correct Answer : 75
+Solution
+Step 1 is: Calculate the volume of Ceftriaxone to administer. 1500 mg ÷ (40 mg ÷ 1 mL) = 1500 mg × (1 mL ÷ 40 mg) = 37.5 mL.
+Step 2 is: Calculate the infusion rate in mL/hr. 37.5 mL ÷ 30 min × 60 min ÷ 1 hr = 37.5 mL × 2 = 75 mL/hr. The infusion rate is 75.
+",
+        "id": "PEDI-Q39",
+        "options": [
+          "75"
+          "80
+          "95"
+          "100"
+        ],
+        "text": "Ordered Ceftriaxone 1500 mg IV every 12 hours given over 30 minutes. Correct concentration: 40 mg/mL. At what rate do you set the IV pump to infuse over 30 minutes? Enter as a whole number and numeric value only (mL/hr)."
+      },
+      {
+        "correctIndices": [2],
+        "explanation": "Identity versus role confusion is Erikson's fifth stage, which is the central developmental task of adolescence. During this stage, the teenager is trying to figure out "who they are" and where they fit in the world, often through experimentation with different roles, values, and peer groups. The desire to dress like others reflects the search for a sense of belonging and a unified self-concept.
+",
+        "id": "PEDI-Q40",
+        "options": [
+          "Trust versus mistrust.",
+          "Autonomy versus shame and doubt.",
+          "Identity versus role confusion.",
+          "Initiative versus inferiority."
+        ],
+        "text": "A teenage male refuses to wear the clothes his mother bought for him. He states he wants to look like the other kids at school and wear the types of clothes they wear. The nurse explains that this is related to internal conflicts of which of the following Erikson stages?"
+      },
+      {
+        "correctIndices": [0],
+        "explanation": "The statement "Yes" is incorrect because the ordered dose of 150 mcg is significantly above the calculated safe range maximum of 96.6 mcg/24 hr. Administering an overdose of levothyroxine can lead to hyperthyroidism symptoms like tachycardia, heat intolerance, and anxiety, which is not a safe practice.
+",
+        "id": "PEDI-Q41",
+        "options": [
+          "Yes.",
+          "No.",
+          "The dose is too low for the client's weight.",
+          "The safe dose range is too narrow to determine."
+        ],
+        "text": "Ordered: Levothyroxine 150 mcg PO every day. Available in bottle of suspension: 50 mcg/2 mL. Safe dose range: 5–6 mcg/kg/24 hr. Weight: 16.1 kg. Is this a safe dose for this patient?"
+      },
+      {
+        "correctIndices": [0],
+        "explanation": "Fresh fruits and vegetables are essential components of the Dietary Approaches to Stop Hypertension (DASH) diet, which is effective for managing blood pressure. They are naturally low in sodium and fat while being high in potassium, calcium, and magnesium, all of which contribute to lowering blood pressure by promoting vasodilation and regulating fluid balance.
+",
+        "id": "PEDI-Q42",
+        "options": [
+          "\"I should eat plenty of fresh fruits and vegetables.\"",
+          "\"I can eat any amount at a meal as long as I don't eat between meals.\"",
+          "\"I have to make sure that I drink a lot of fruit juice.\"",
+          "\"If I skip breakfast, I can eat a much bigger lunch.\""
+        ],
+        "text": "A nurse is working with an adolescent who is slightly overweight and was recently diagnosed with hypertension. They are discussing nutritional management. Which statement by the adolescent demonstrates understanding of the information?"
+      },
+      {
+        "correctIndices": [2],
+        "explanation": "Administering aspirin is a critical part of the medical management for Kawasaki Disease and serves a dual purpose. High-dose aspirin is given for its anti-inflammatory properties to reduce fever and systemic inflammation. Later, low-dose aspirin is continued for its anti-platelet effects to prevent the formation of blood clots, especially in the setting of coronary artery aneurysms.
+",
+        "id": "PEDI-Q43",
+        "options": [
+          "Encourage a vigorous exercise program.",
+          "Keep the child NPO for the first 24 hours.",
+          "Administer aspirin as ordered.",
+          "Splint extremities with contractures."
+        ],
+        "text": "A child with Kawasaki Disease is admitted to the pediatric unit. To promote comfort, the nurse should do which of the following?"
+      },
+      {
+        "correctIndices": [0],
+        "explanation": "Promoting open, non-judgmental communication is crucial for building trust and encouraging the adolescent to share concerns regarding bodily changes and sexuality. Encouraging listening validates her feelings, while avoiding lectures prevents defensiveness. Sharing family values provides a moral and ethical framework for the complex information being processed, establishing a supportive and informative environment. The parent should be a primary source of accurate information.
+",
+        "id": "PEDI-Q44",
+        "options": [
+          "Promote open lines of communication, encourage listening, do not lecture, and share family values.",
+          "Discuss with the adolescent the experiences that you had so that she can connect on a personal level.",
+          "Encourage her to talk to her peers and teachers in health class about any concerns that she has.",
+          "Do not initiate any conversation; let the teen come and seek you out for any advice and answers."
+        ],
+        "text": "Linda, a 14-year-old, and her mother are in the office. As Linda goes to the bathroom, her mother stops the nurse and asks about the changes that Linda is going through. She would like to talk to her about sex and the changes but she is unsure of how to do this. As the nurse, which of the following would be appropriate for you to suggest?"
+      },
+      {
+        "correctIndices": [0],
+        "explanation": "Correct Answer (mL) : 36
+Solution
+Step 1 is to convert the patient's weight from pounds to kilograms. 59 pounds ÷ 2.2 kg/pound = 26.8181. kg. We will use the unrounded number for the next step.
+Step 2 is to calculate the daily fluid requirement based on the Holliday-Segar method. The patient weighs 26.8181. kg, which is more than 20 kg. Fluid for the first 10 kg: 10 kg × 100 mL/kg = 1000 mL. Fluid for the second 10 kg: 10 kg × 50 mL/kg = 500 mL. Remaining weight: 26.8181. kg - 20 kg = 6.8181. kg. Fluid for the remaining weight: 6.8181. kg × 20 mL/kg = 136.3636. mL.
+Step 3 is to calculate the total daily fluid requirement. 1000 mL + 500 mL + 136.3636. mL = 1636.3636. mL.
+Step 4 is to round the final answer to the nearest whole number. 1636.3636. mL rounded to the nearest whole number is 1636. The daily fluid requirement is 1636 mL.
+",
+        "id": "PEDI-Q45",
+        "options": [
+          "1636"
+          "2345"
+          "3567"
+          "4567"
+        ],
+        "text": "Your patient weighs 59 pounds. What is the daily fluid requirement in mL for this patient? Enter numeric value only."
+      },
+      {
+        "correctIndices": [1],
+        "explanation": "Rheumatic fever is a delayed, non-suppurative complication of Group A beta-hemolytic Streptococcus infection that can lead to carditis (inflammation of the heart muscle, valves, and pericardium), which is the most critical complication. Frequent auscultation of heart sounds is the highest priority intervention to detect new or worsening murmurs, rubs, or gallops, which are direct signs of cardiac inflammation and potential valve damage. Normal heart rate is 60 to 100 beats per minute.
+",
+        "id": "PEDI-Q46",
+        "options": [
+          "Provide age-appropriate diversional activities.",
+          "Auscultate heart sounds.",
+          "Monitor the C-reactive protein and ESR levels.",
+          "Position the child to relieve joint pain."
+        ],
+        "text": "In developing a plan of care for the child diagnosed with rheumatic fever, the nursing intervention that takes the highest priority for this child is to:"
+      },
+      {
+        "correctIndices": [1],
+        "explanation": "Motor vehicle crashes are the leading cause of unintentional injury, morbidity, and mortality among adolescents aged 15 to 20 years. Factors contributing to this include inexperience, distracted driving, night driving, impaired driving, and not using safety belts. The combination of risk-taking behaviors and the acquisition of new driving privileges makes this the major cause of death in this population.
+",
+        "id": "PEDI-Q47",
+        "options": [
+          "Violence.",
+          "Motor vehicle crashes.",
+          "Suicide.",
+          "Drowning."
+        ],
+        "text": "A nurse is reading a journal article about adolescents and major causes of unintentional injuries in this age group. The nurse demonstrates understanding of this information by identifying which situation as the major cause of adolescent unintentional injuries?"
+      },
+      {
+        "correctIndices": [0],
+        "explanation": "Correct Answer (milliliters) : 780
+Solution
+Step 1 is to calculate the total IV intake. The IV ran for 4 hours (from 0100 to 0500). 60 mL/hour × 4 hours = 240 mL.
+Step 2 is to convert the apple juice container volume from ounces to milliliters. 1 ounce is approximately 30 milliliters. 3 ounces per container × 30 mL/ounce = 90 mL per container.
+Step 3 is to calculate the total apple juice intake. 2 containers × 90 mL/container = 180 mL.
+Step 4 is to calculate the total water intake (already in mL). Water intake = 360 mL.
+Step 5 is to calculate the total oral intake. 180 mL (apple juice) + 360 mL (water) = 540 mL.
+Step 6 is to calculate the total intake (IV and oral) in milliliters. 240 mL (IV) + 540 mL (oral) = 780 mL. The patient's total intake (IV and oral) from 0100 to 0500 was 780.
+",
+        "id": "PEDI-Q48",
+        "options": [
+          "780"
+          "850"
+          "565"
+          "404"
+        ],
+        "text": "A patient has been transferred to your floor from the Emergency Department. From 0100 to 0500, he received 60 milliliters per hour from his intravenous (IV) line and had two containers of apple juice and 360 milliliters of water to drink. Each apple juice container is 3 ounces. His weight is 42.6 kilograms. What was your patient's total intake (IV and oral) from 0100 to 0500 in milliliters? Enter numeric value only."
+      },
+      {
+        "correctIndices": [1],
+        "explanation": "Indomethacin, a nonsteroidal anti-inflammatory drug (NSAID), is a prostaglandin synthesis inhibitor which is the primary pharmacological treatment for closing a hemodynamically significant PDA in a premature infant. Prostaglandins, particularly PGE_2, maintain ductal patency, so blocking their production allows the ductus arteriosus to constrict and eventually close. The elevated pulse and respiratory rate in this newborn indicate a large left-to-right shunt requiring this specific closure therapy.
+",
+        "id": "PEDI-Q49",
+        "options": [
+          "Administer furosemide.",
+          "Begin indomethacin infusion.",
+          "Initiate intravenous access.",
+          "Feed a high-calorie formula every two hours."
+        ],
+        "text": "The nurse is caring for a 5-day-old newborn with patent ductus arteriosus with the following vital signs: pulse 160 beats per minute, respirations 80 breaths per minute, oxygen saturation 92%. Which order should the nurse query?"
+      }
+    ]
+  }
+]
